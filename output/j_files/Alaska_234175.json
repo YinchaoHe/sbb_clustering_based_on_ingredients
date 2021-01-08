@@ -1,0 +1,83 @@
+[
+    {
+        "comment": "diced", 
+        "name": "bacon", 
+        "qty": "1", 
+        "other": ",", 
+        "input": "1 pound bacon, diced", 
+        "display": "<span class='qty'>1</span><span class='unit'>pound</span><span class='name'>bacon</span><span class='other'>,</span><span class='comment'>diced</span>", 
+        "unit": "pound"
+    }, 
+    {
+        "comment": "large, chopped", 
+        "input": "2 large onions, chopped", 
+        "display": "<span class='qty'>2</span><span class='comment'>large</span><span class='name'>onions</span><span class='comment'>, chopped</span>", 
+        "name": "onions", 
+        "qty": "2"
+    }, 
+    {
+        "comment": "crushed", 
+        "name": "garlic", 
+        "qty": "3", 
+        "input": "3 tablespoons crushed garlic", 
+        "display": "<span class='qty'>3</span><span class='unit'>tablespoons</span><span class='comment'>crushed</span><span class='name'>garlic</span>", 
+        "unit": "tablespoon"
+    }, 
+    {
+        "comment": "cubed", 
+        "name": "beef stew meat", 
+        "qty": "2", 
+        "input": "2 pounds cubed beef stew meat", 
+        "display": "<span class='qty'>2</span><span class='unit'>pounds</span><span class='comment'>cubed</span><span class='name'>beef stew meat</span>", 
+        "unit": "pound"
+    }, 
+    {
+        "comment": "12 fluid ounce) cans or bottles brown ale (such as Newcastle\u00ae Brown Ale) as needed", 
+        "input": "6 (12 fluid ounce) cans or bottles brown ale (such as Newcastle\u00ae Brown Ale), or as needed", 
+        "other": "(, or", 
+        "display": "<span class='qty'>6</span><span class='other'>(</span><span class='comment'>12 fluid ounce ) cans or bottles brown ale ( such as Newcastle\u00ae Brown Ale )</span><span class='other'>, or</span><span class='comment'>as needed</span>", 
+        "qty": "6"
+    }, 
+    {
+        "input": "1\u20444 cup Worcestershire sauce", 
+        "display": "<span class='qty'>1\u20444</span><span class='unit'>cup</span><span class='name'>Worcestershire sauce</span>", 
+        "name": "Worcestershire sauce", 
+        "unit": "cup", 
+        "qty": "1\u20444"
+    }, 
+    {
+        "comment": "(blank) s", 
+        "input": "2 leaf (blank) s bay leaves", 
+        "display": "<span class='qty'>2</span><span class='name'>leaf</span><span class='comment'>( blank ) s</span><span class='name'>bay leaves</span>", 
+        "name": "leaf bay leaves", 
+        "qty": "2"
+    }, 
+    {
+        "comment": "ground to taste", 
+        "input": "salt and ground black pepper to taste", 
+        "name": "salt and black pepper", 
+        "display": "<span class='name'>salt and</span><span class='comment'>ground</span><span class='name'>black pepper</span><span class='comment'>to taste</span>"
+    }, 
+    {
+        "input": "2 pounds fingerling potatoes", 
+        "display": "<span class='qty'>2</span><span class='unit'>pounds</span><span class='name'>fingerling potatoes</span>", 
+        "name": "fingerling potatoes", 
+        "unit": "pound", 
+        "qty": "2"
+    }, 
+    {
+        "input": "1 pound baby carrots", 
+        "display": "<span class='qty'>1</span><span class='unit'>pound</span><span class='name'>baby carrots</span>", 
+        "name": "baby carrots", 
+        "unit": "pound", 
+        "qty": "1"
+    }, 
+    {
+        "comment": "diced", 
+        "name": "green bell pepper", 
+        "qty": "1", 
+        "input": "1 cup diced green bell pepper", 
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='comment'>diced</span><span class='name'>green bell pepper</span>", 
+        "unit": "cup"
+    }
+]

@@ -1,0 +1,86 @@
+[
+    {
+        "comment": "diced", 
+        "name": "bacon", 
+        "qty": "1", 
+        "other": ",", 
+        "input": "1 pound bacon, diced", 
+        "display": "<span class='qty'>1</span><span class='unit'>pound</span><span class='name'>bacon</span><span class='other'>,</span><span class='comment'>diced</span>", 
+        "unit": "pound"
+    }, 
+    {
+        "input": "3 cups low-fat milk", 
+        "display": "<span class='qty'>3</span><span class='unit'>cups</span><span class='name'>low-fat milk</span>", 
+        "name": "low-fat milk", 
+        "unit": "cup", 
+        "qty": "3"
+    }, 
+    {
+        "comment": "(8 ounce) packages, softened", 
+        "input": "2 (8 ounce) packages cream cheese, softened", 
+        "display": "<span class='qty'>2</span><span class='comment'>( 8 ounce ) packages</span><span class='name'>cream cheese</span><span class='comment'>, softened</span>", 
+        "name": "cream cheese", 
+        "qty": "2"
+    }, 
+    {
+        "comment": "(10.75 ounce) cans cream of such as Campbell's\u00ae)", 
+        "name": "potato soup", 
+        "qty": "4", 
+        "other": "(", 
+        "input": "4 (10.75 ounce) cans cream of potato soup (such as Campbell's\u00ae)", 
+        "display": "<span class='qty'>4</span><span class='comment'>( 10.75 ounce ) cans cream of</span><span class='name'>potato soup</span><span class='other'>(</span><span class='comment'>such as Campbell's\u00ae )</span>"
+    }, 
+    {
+        "input": "1 (10.75 ounce) can reduced-fat, reduced-sodium cream of mushroom soup, undiluted", 
+        "display": "<span class='qty'>1</span><span class='name'>( 10.75 ounce ) can reduced-fat , reduced-sodium cream of mushroom soup , undiluted</span>", 
+        "name": "(10.75 ounce) can reduced-fat, reduced-sodium cream of mushroom soup, undiluted", 
+        "qty": "1"
+    }, 
+    {
+        "comment": "15.25 ounce) can, drained", 
+        "name": "niblet corn", 
+        "qty": "1", 
+        "other": "(", 
+        "input": "1 (15.25 ounce) can niblet corn, drained", 
+        "display": "<span class='qty'>1</span><span class='other'>(</span><span class='comment'>15.25 ounce ) can</span><span class='name'>niblet corn</span><span class='comment'>, drained</span>"
+    }, 
+    {
+        "comment": "finely diced", 
+        "name": "halibut", 
+        "qty": "4", 
+        "input": "4 cups finely diced halibut", 
+        "display": "<span class='qty'>4</span><span class='unit'>cups</span><span class='comment'>finely diced</span><span class='name'>halibut</span>", 
+        "unit": "cup"
+    }, 
+    {
+        "comment": "sliced fresh", 
+        "name": "mushrooms", 
+        "qty": "8", 
+        "input": "8 ounces sliced fresh mushrooms", 
+        "display": "<span class='qty'>8</span><span class='unit'>ounces</span><span class='comment'>sliced fresh</span><span class='name'>mushrooms</span>", 
+        "unit": "ounce"
+    }, 
+    {
+        "comment": "eaches green with tops, diced, or more to taste", 
+        "input": "10 eaches green onions with tops, diced, or more to taste", 
+        "display": "<span class='qty'>10</span><span class='comment'>eaches green</span><span class='name'>onions</span><span class='comment'>with tops , diced , or more to taste</span>", 
+        "name": "onions", 
+        "qty": "10"
+    }, 
+    {
+        "comment": "or more to taste", 
+        "name": "garlic", 
+        "qty": "2", 
+        "other": ",", 
+        "input": "2 cloves garlic, or more to taste", 
+        "display": "<span class='qty'>2</span><span class='unit'>cloves</span><span class='name'>garlic</span><span class='other'>,</span><span class='comment'>or more to taste</span>", 
+        "unit": "clove"
+    }, 
+    {
+        "input": "1 pinch cayenne pepper", 
+        "display": "<span class='qty'>1</span><span class='unit'>pinch</span><span class='name'>cayenne pepper</span>", 
+        "name": "cayenne pepper", 
+        "unit": "pinch", 
+        "qty": "1"
+    }
+]

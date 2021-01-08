@@ -1,0 +1,68 @@
+[
+    {
+        "comment": "large", 
+        "input": "24 large eggs eggs", 
+        "display": "<span class='qty'>24</span><span class='comment'>large</span><span class='name'>eggs eggs</span>", 
+        "name": "eggs eggs", 
+        "qty": "24"
+    }, 
+    {
+        "comment": "2-1/2\" dia) s, sliced", 
+        "name": "onions", 
+        "qty": "2", 
+        "other": "medium (", 
+        "input": "2 medium (2-1/2\" dia) s onions, sliced", 
+        "display": "<span class='qty'>2</span><span class='other'>medium (</span><span class='comment'>2-1/2\" dia ) s</span><span class='name'>onions</span><span class='comment'>, sliced</span>"
+    }, 
+    {
+        "input": "2 cups balsamic vinegar", 
+        "display": "<span class='qty'>2</span><span class='unit'>cups</span><span class='name'>balsamic vinegar</span>", 
+        "name": "balsamic vinegar", 
+        "unit": "cup", 
+        "qty": "2"
+    }, 
+    {
+        "input": "4 cups water", 
+        "display": "<span class='qty'>4</span><span class='unit'>cups</span><span class='name'>water</span>", 
+        "name": "water", 
+        "unit": "cup", 
+        "qty": "4"
+    }, 
+    {
+        "input": "4 tablespoons white sugar", 
+        "display": "<span class='qty'>4</span><span class='unit'>tablespoons</span><span class='name'>white sugar</span>", 
+        "name": "white sugar", 
+        "unit": "tablespoon", 
+        "qty": "4"
+    }, 
+    {
+        "comment": "mashed into a paste", 
+        "name": "garlic", 
+        "qty": "20", 
+        "other": ",", 
+        "input": "20 cloves garlic, mashed into a paste", 
+        "display": "<span class='qty'>20</span><span class='unit'>cloves</span><span class='name'>garlic</span><span class='other'>,</span><span class='comment'>mashed into a paste</span>", 
+        "unit": "clove"
+    }, 
+    {
+        "input": "35 eaches peppercorns", 
+        "display": "<span class='qty'>35</span><span class='name'>eaches peppercorns</span>", 
+        "name": "eaches peppercorns", 
+        "qty": "35"
+    }, 
+    {
+        "input": "1\u20442 cup beet juice (see Cook's Note)", 
+        "other": "1\u20442 (see Cook's Note)", 
+        "name": "beet juice", 
+        "unit": "cup", 
+        "display": "<span class='other'>1\u20442</span><span class='unit'>cup</span><span class='name'>beet juice</span><span class='other'>( see Cook's Note )</span>"
+    }, 
+    {
+        "comment": "halved lengthwise", 
+        "name": "peppers fresh green and red cayenne chiles", 
+        "qty": "6", 
+        "other": ",", 
+        "input": "6 peppers fresh green and red cayenne chiles, halved lengthwise", 
+        "display": "<span class='qty'>6</span><span class='name'>peppers fresh green and red cayenne chiles</span><span class='other'>,</span><span class='comment'>halved lengthwise</span>"
+    }
+]

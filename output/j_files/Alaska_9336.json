@@ -1,0 +1,73 @@
+[
+    {
+        "input": "3 tablespoons Dijon mustard", 
+        "display": "<span class='qty'>3</span><span class='unit'>tablespoons</span><span class='name'>Dijon mustard</span>", 
+        "name": "Dijon mustard", 
+        "unit": "tablespoon", 
+        "qty": "3"
+    }, 
+    {
+        "comment": "melted", 
+        "name": "butter", 
+        "qty": "3", 
+        "other": ",", 
+        "input": "3 tablespoons butter, melted", 
+        "display": "<span class='qty'>3</span><span class='unit'>tablespoons</span><span class='name'>butter</span><span class='other'>,</span><span class='comment'>melted</span>", 
+        "unit": "tablespoon"
+    }, 
+    {
+        "input": "5 teaspoons honey", 
+        "display": "<span class='qty'>5</span><span class='unit'>teaspoons</span><span class='name'>honey</span>", 
+        "name": "honey", 
+        "unit": "teaspoon", 
+        "qty": "5"
+    }, 
+    {
+        "comment": "fresh", 
+        "name": "bread crumbs", 
+        "qty": "1\u20442", 
+        "input": "1\u20442 cup fresh bread crumbs", 
+        "display": "<span class='qty'>1\u20442</span><span class='unit'>cup</span><span class='comment'>fresh</span><span class='name'>bread crumbs</span>", 
+        "unit": "cup"
+    }, 
+    {
+        "comment": "finely chopped", 
+        "name": "pecans", 
+        "qty": "1\u20442", 
+        "input": "1\u20442 cup finely chopped pecans", 
+        "display": "<span class='qty'>1\u20442</span><span class='unit'>cup</span><span class='comment'>finely chopped</span><span class='name'>pecans</span>", 
+        "unit": "cup"
+    }, 
+    {
+        "comment": "chopped fresh", 
+        "name": "parsley", 
+        "qty": "3", 
+        "input": "3 teaspoons chopped fresh parsley", 
+        "display": "<span class='qty'>3</span><span class='unit'>teaspoons</span><span class='comment'>chopped fresh</span><span class='name'>parsley</span>", 
+        "unit": "teaspoon"
+    }, 
+    {
+        "comment": "4 ounce", 
+        "name": "salmon", 
+        "qty": "6", 
+        "other": "()", 
+        "input": "6 (4 ounce) fillets salmon", 
+        "display": "<span class='qty'>6</span><span class='other'>(</span><span class='comment'>4 ounce</span><span class='other'>)</span><span class='unit'>fillets</span><span class='name'>salmon</span>", 
+        "unit": "fillet"
+    }, 
+    {
+        "comment": "to taste", 
+        "input": "salt and pepper to taste", 
+        "name": "salt and pepper", 
+        "display": "<span class='name'>salt and pepper</span><span class='comment'>to taste</span>"
+    }, 
+    {
+        "comment": "blank) s", 
+        "name": "lemon wedges", 
+        "qty": "6", 
+        "other": "(", 
+        "input": "6 wedge (blank) s lemon wedges", 
+        "display": "<span class='qty'>6</span><span class='unit'>wedge</span><span class='other'>(</span><span class='comment'>blank ) s</span><span class='name'>lemon wedges</span>", 
+        "unit": "wedge"
+    }
+]

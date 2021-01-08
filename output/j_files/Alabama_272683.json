@@ -1,0 +1,121 @@
+[
+    {
+        "comment": "chopped", 
+        "name": "tomatoes", 
+        "qty": "4", 
+        "input": "4 cups chopped tomatoes", 
+        "display": "<span class='qty'>4</span><span class='unit'>cups</span><span class='comment'>chopped</span><span class='name'>tomatoes</span>", 
+        "unit": "cup"
+    }, 
+    {
+        "input": "2 cups lima beans", 
+        "display": "<span class='qty'>2</span><span class='unit'>cups</span><span class='name'>lima beans</span>", 
+        "name": "lima beans", 
+        "unit": "cup", 
+        "qty": "2"
+    }, 
+    {
+        "comment": "chopped", 
+        "name": "okra", 
+        "qty": "2", 
+        "input": "2 cups chopped okra", 
+        "display": "<span class='qty'>2</span><span class='unit'>cups</span><span class='comment'>chopped</span><span class='name'>okra</span>", 
+        "unit": "cup"
+    }, 
+    {
+        "comment": "chopped", 
+        "name": "red potatoes", 
+        "qty": "2", 
+        "input": "2 cups chopped red potatoes", 
+        "display": "<span class='qty'>2</span><span class='unit'>cups</span><span class='comment'>chopped</span><span class='name'>red potatoes</span>", 
+        "unit": "cup"
+    }, 
+    {
+        "input": "1 cup corn", 
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='name'>corn</span>", 
+        "name": "corn", 
+        "unit": "cup", 
+        "qty": "1"
+    }, 
+    {
+        "input": "1 cup green beans", 
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='name'>green beans</span>", 
+        "name": "green beans", 
+        "unit": "cup", 
+        "qty": "1"
+    }, 
+    {
+        "comment": "chopped", 
+        "name": "carrots", 
+        "qty": "1\u20442", 
+        "input": "1\u20442 cup chopped carrots", 
+        "display": "<span class='qty'>1\u20442</span><span class='unit'>cup</span><span class='comment'>chopped</span><span class='name'>carrots</span>", 
+        "unit": "cup"
+    }, 
+    {
+        "comment": "(6 ounce) can", 
+        "input": "1 (6 ounce) can tomato paste", 
+        "display": "<span class='qty'>1</span><span class='comment'>( 6 ounce ) can</span><span class='name'>tomato paste</span>", 
+        "name": "tomato paste", 
+        "qty": "1"
+    }, 
+    {
+        "input": "4 cups chicken stock", 
+        "display": "<span class='qty'>4</span><span class='unit'>cups</span><span class='name'>chicken stock</span>", 
+        "name": "chicken stock", 
+        "unit": "cup", 
+        "qty": "4"
+    }, 
+    {
+        "comment": "ground", 
+        "name": "beef", 
+        "qty": "1", 
+        "input": "1 pound ground beef", 
+        "display": "<span class='qty'>1</span><span class='unit'>pound</span><span class='comment'>ground</span><span class='name'>beef</span>", 
+        "unit": "pound"
+    }, 
+    {
+        "input": "1\u20442 tablespoon garlic powder", 
+        "display": "<span class='qty'>1\u20442</span><span class='unit'>tablespoon</span><span class='name'>garlic powder</span>", 
+        "name": "garlic powder", 
+        "unit": "tablespoon", 
+        "qty": "1\u20442"
+    }, 
+    {
+        "input": "1\u20442 tablespoon celery salt", 
+        "display": "<span class='qty'>1\u20442</span><span class='unit'>tablespoon</span><span class='name'>celery salt</span>", 
+        "name": "celery salt", 
+        "unit": "tablespoon", 
+        "qty": "1\u20442"
+    }, 
+    {
+        "input": "1\u20442 tablespoon onion powder", 
+        "other": "1\u20442", 
+        "name": "onion powder", 
+        "unit": "tablespoon", 
+        "display": "<span class='other'>1\u20442</span><span class='unit'>tablespoon</span><span class='name'>onion powder</span>"
+    }, 
+    {
+        "comment": "small, chopped", 
+        "input": "1 small onion, chopped", 
+        "display": "<span class='qty'>1</span><span class='comment'>small</span><span class='name'>onion</span><span class='comment'>, chopped</span>", 
+        "name": "onion", 
+        "qty": "1"
+    }, 
+    {
+        "comment": "crushed, or more to taste", 
+        "name": "garlic", 
+        "qty": "2", 
+        "other": ",", 
+        "input": "2 cloves garlic, crushed, or more to taste", 
+        "display": "<span class='qty'>2</span><span class='unit'>cloves</span><span class='name'>garlic</span><span class='other'>,</span><span class='comment'>crushed , or more to taste</span>", 
+        "unit": "clove"
+    }, 
+    {
+        "input": "3 tablespoons butter", 
+        "display": "<span class='qty'>3</span><span class='unit'>tablespoons</span><span class='name'>butter</span>", 
+        "name": "butter", 
+        "unit": "tablespoon", 
+        "qty": "3"
+    }
+]

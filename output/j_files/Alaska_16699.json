@@ -1,0 +1,87 @@
+[
+    {
+        "comment": "4 ounce", 
+        "name": "salmon", 
+        "qty": "8", 
+        "other": "()", 
+        "input": "8 (4 ounce) fillets salmon", 
+        "display": "<span class='qty'>8</span><span class='other'>(</span><span class='comment'>4 ounce</span><span class='other'>)</span><span class='unit'>fillets</span><span class='name'>salmon</span>", 
+        "unit": "fillet"
+    }, 
+    {
+        "input": "1\u20442 cup peanut oil", 
+        "display": "<span class='qty'>1\u20442</span><span class='unit'>cup</span><span class='name'>peanut oil</span>", 
+        "name": "peanut oil", 
+        "unit": "cup", 
+        "qty": "1\u20442"
+    }, 
+    {
+        "input": "4 tablespoons soy sauce", 
+        "display": "<span class='qty'>4</span><span class='unit'>tablespoons</span><span class='name'>soy sauce</span>", 
+        "name": "soy sauce", 
+        "unit": "tablespoon", 
+        "qty": "4"
+    }, 
+    {
+        "input": "4 tablespoons balsamic vinegar", 
+        "display": "<span class='qty'>4</span><span class='unit'>tablespoons</span><span class='name'>balsamic vinegar</span>", 
+        "name": "balsamic vinegar", 
+        "unit": "tablespoon", 
+        "qty": "4"
+    }, 
+    {
+        "comment": "green, chopped", 
+        "name": "onions", 
+        "qty": "4", 
+        "input": "4 tablespoons green onions, chopped", 
+        "display": "<span class='qty'>4</span><span class='unit'>tablespoons</span><span class='comment'>green</span><span class='name'>onions</span><span class='comment'>, chopped</span>", 
+        "unit": "tablespoon"
+    }, 
+    {
+        "input": "3 teaspoons brown sugar", 
+        "display": "<span class='qty'>3</span><span class='unit'>teaspoons</span><span class='name'>brown sugar</span>", 
+        "name": "brown sugar", 
+        "unit": "teaspoon", 
+        "qty": "3"
+    }, 
+    {
+        "comment": "minced", 
+        "name": "garlic", 
+        "qty": "2", 
+        "other": ",", 
+        "input": "2 cloves garlic, minced", 
+        "display": "<span class='qty'>2</span><span class='unit'>cloves</span><span class='name'>garlic</span><span class='other'>,</span><span class='comment'>minced</span>", 
+        "unit": "clove"
+    }, 
+    {
+        "comment": "ground", 
+        "name": "ginger", 
+        "qty": "1", 
+        "other": "1\u20442", 
+        "input": "1 1\u20442 teaspoons ground ginger", 
+        "display": "<span class='qty'>1</span><span class='other'>1\u20442</span><span class='unit'>teaspoons</span><span class='comment'>ground</span><span class='name'>ginger</span>", 
+        "unit": "teaspoon"
+    }, 
+    {
+        "comment": "crushed", 
+        "name": "red pepper flakes", 
+        "qty": "2", 
+        "input": "2 teaspoons crushed red pepper flakes", 
+        "display": "<span class='qty'>2</span><span class='unit'>teaspoons</span><span class='comment'>crushed</span><span class='name'>red pepper flakes</span>", 
+        "unit": "teaspoon"
+    }, 
+    {
+        "input": "1 teaspoon sesame oil", 
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='name'>sesame oil</span>", 
+        "name": "sesame oil", 
+        "unit": "teaspoon", 
+        "qty": "1"
+    }, 
+    {
+        "input": "1\u20442 teaspoon salt", 
+        "display": "<span class='qty'>1\u20442</span><span class='unit'>teaspoon</span><span class='name'>salt</span>", 
+        "name": "salt", 
+        "unit": "teaspoon", 
+        "qty": "1\u20442"
+    }
+]

@@ -1,0 +1,75 @@
+[
+    {
+        "input": "2 teaspoons olive oil", 
+        "display": "<span class='qty'>2</span><span class='unit'>teaspoons</span><span class='name'>olive oil</span>", 
+        "name": "olive oil", 
+        "unit": "teaspoon", 
+        "qty": "2"
+    }, 
+    {
+        "comment": "finely chopped", 
+        "name": "onion", 
+        "qty": "3", 
+        "input": "3 tablespoons finely chopped onion", 
+        "display": "<span class='qty'>3</span><span class='unit'>tablespoons</span><span class='comment'>finely chopped</span><span class='name'>onion</span>", 
+        "unit": "tablespoon"
+    }, 
+    {
+        "comment": ", drained and rinsed", 
+        "name": "can black beans", 
+        "qty": "1", 
+        "other": "(15.5 ounce)", 
+        "input": "1 (15.5 ounce) can black beans, drained and rinsed", 
+        "display": "<span class='qty'>1</span><span class='other'>( 15.5 ounce )</span><span class='name'>can black beans</span><span class='comment'>, drained and rinsed</span>"
+    }, 
+    {
+        "comment": ", drained", 
+        "input": "1 (10 ounce) can whole kernel corn, drained", 
+        "display": "<span class='qty'>1</span><span class='name'>( 10 ounce ) can whole kernel corn</span><span class='comment'>, drained</span>", 
+        "name": "(10 ounce) can whole kernel corn", 
+        "qty": "1"
+    }, 
+    {
+        "input": "1 tablespoon brown sugar", 
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='name'>brown sugar</span>", 
+        "name": "brown sugar", 
+        "unit": "tablespoon", 
+        "qty": "1"
+    }, 
+    {
+        "input": "1\u20444 cup salsa", 
+        "other": "1\u20444", 
+        "name": "salsa", 
+        "unit": "cup", 
+        "display": "<span class='other'>1\u20444</span><span class='unit'>cup</span><span class='name'>salsa</span>"
+    }, 
+    {
+        "input": "1\u20444 teaspoon red pepper flakes", 
+        "display": "<span class='qty'>1\u20444</span><span class='unit'>teaspoon</span><span class='name'>red pepper flakes</span>", 
+        "name": "red pepper flakes", 
+        "unit": "teaspoon", 
+        "qty": "1\u20444"
+    }, 
+    {
+        "name": "butter", 
+        "qty": "2", 
+        "other": ", divided", 
+        "input": "2 tablespoons butter, divided", 
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='name'>butter</span><span class='other'>, divided</span>", 
+        "unit": "tablespoon"
+    }, 
+    {
+        "input": "8 (8 inch) flour tortillas", 
+        "other": "(8 inch)", 
+        "display": "<span class='qty'>8</span><span class='other'>( 8 inch )</span><span class='name'>flour tortillas</span>", 
+        "name": "flour tortillas", 
+        "qty": "8"
+    }, 
+    {
+        "input": "1 1\u20442 cups shredded Monterey Jack cheese, divided", 
+        "other": ", divided", 
+        "display": "<span class='qty'>1</span><span class='name'>1\u20442 cups shredded Monterey Jack cheese</span><span class='other'>, divided</span>", 
+        "name": "1\u20442 cups shredded Monterey Jack cheese", 
+        "qty": "1"
+    }
+]

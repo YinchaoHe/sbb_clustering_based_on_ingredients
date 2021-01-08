@@ -1,0 +1,63 @@
+[
+    {
+        "comment": "(8 ounce) package, softened", 
+        "input": "1 (8 ounce) package cream cheese, softened", 
+        "display": "<span class='qty'>1</span><span class='comment'>( 8 ounce ) package</span><span class='name'>cream cheese</span><span class='comment'>, softened</span>", 
+        "name": "cream cheese", 
+        "qty": "1"
+    }, 
+    {
+        "comment": "McCormick\u00ae with Lime Juice (Mayonesa) or mayonnaise", 
+        "name": "Mayonnaise", 
+        "qty": "1\u20442", 
+        "input": "1\u20442 cup McCormick\u00ae Mayonnaise with Lime Juice (Mayonesa) or mayonnaise", 
+        "display": "<span class='qty'>1\u20442</span><span class='unit'>cup</span><span class='comment'>McCormick\u00ae</span><span class='name'>Mayonnaise</span><span class='comment'>with Lime Juice ( Mayonesa ) or mayonnaise</span>", 
+        "unit": "cup"
+    }, 
+    {
+        "input": "1\u20442 cup sour cream", 
+        "display": "<span class='qty'>1\u20442</span><span class='unit'>cup</span><span class='name'>sour cream</span>", 
+        "name": "sour cream", 
+        "unit": "cup", 
+        "qty": "1\u20442"
+    }, 
+    {
+        "comment": "4 ounce) can diced, undrained", 
+        "name": "green chilies", 
+        "qty": "1", 
+        "other": "(", 
+        "input": "1 (4 ounce) can diced green chilies, undrained", 
+        "display": "<span class='qty'>1</span><span class='other'>(</span><span class='comment'>4 ounce ) can diced</span><span class='name'>green chilies</span><span class='comment'>, undrained</span>"
+    }, 
+    {
+        "input": "1 package McCormick\u00ae Burrito Seasoning Mix", 
+        "display": "<span class='qty'>1</span><span class='unit'>package</span><span class='name'>McCormick\u00ae Burrito Seasoning Mix</span>", 
+        "name": "McCormick\u00ae Burrito Seasoning Mix", 
+        "unit": "package", 
+        "qty": "1"
+    }, 
+    {
+        "comment": "shredded", 
+        "name": "Mexican cheese", 
+        "qty": "1\u20442", 
+        "other": "blend, divided", 
+        "input": "1\u20442 cup shredded Mexican cheese blend, divided", 
+        "display": "<span class='qty'>1\u20442</span><span class='unit'>cup</span><span class='comment'>shredded</span><span class='name'>Mexican cheese</span><span class='other'>blend , divided</span>", 
+        "unit": "cup"
+    }, 
+    {
+        "comment": "shredded cooked", 
+        "name": "chicken", 
+        "qty": "1", 
+        "other": "1\u20442", 
+        "input": "1 1\u20442 cups shredded cooked chicken", 
+        "display": "<span class='qty'>1</span><span class='other'>1\u20442</span><span class='unit'>cups</span><span class='comment'>shredded cooked</span><span class='name'>chicken</span>", 
+        "unit": "cup"
+    }, 
+    {
+        "input": "2 eaches 6-inch tostada bowls", 
+        "display": "<span class='qty'>2</span><span class='name'>eaches 6-inch tostada bowls</span>", 
+        "name": "eaches 6-inch tostada bowls", 
+        "qty": "2"
+    }
+]

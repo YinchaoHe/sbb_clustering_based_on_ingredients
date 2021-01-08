@@ -1,0 +1,105 @@
+[
+    {
+        "input": "1\u20444 cup vegetable oil, divided", 
+        "other": "1\u20444, divided", 
+        "name": "vegetable oil", 
+        "unit": "cup", 
+        "display": "<span class='other'>1\u20444</span><span class='unit'>cup</span><span class='name'>vegetable oil</span><span class='other'>, divided</span>"
+    }, 
+    {
+        "comment": "skinless, boneless fillets", 
+        "name": "halibut", 
+        "qty": "1", 
+        "input": "1 pound skinless, boneless halibut fillets", 
+        "display": "<span class='qty'>1</span><span class='unit'>pound</span><span class='comment'>skinless , boneless</span><span class='name'>halibut</span><span class='comment'>fillets</span>", 
+        "unit": "pound"
+    }, 
+    {
+        "comment": "to taste", 
+        "name": "salt and ground black pepper", 
+        "qty": "1", 
+        "input": "1 pinch salt and ground black pepper to taste", 
+        "display": "<span class='qty'>1</span><span class='unit'>pinch</span><span class='name'>salt and ground black pepper</span><span class='comment'>to taste</span>", 
+        "unit": "pinch"
+    }, 
+    {
+        "comment": "shredded blend", 
+        "name": "Italian cheese", 
+        "qty": "1", 
+        "input": "1 cup shredded Italian cheese blend", 
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='comment'>shredded</span><span class='name'>Italian cheese</span><span class='comment'>blend</span>", 
+        "unit": "cup"
+    }, 
+    {
+        "input": "1 egg", 
+        "display": "<span class='qty'>1</span><span class='name'>egg</span>", 
+        "name": "egg", 
+        "qty": "1"
+    }, 
+    {
+        "input": "1\u20444 cup mayonnaise", 
+        "display": "<span class='qty'>1\u20444</span><span class='unit'>cup</span><span class='name'>mayonnaise</span>", 
+        "name": "mayonnaise", 
+        "unit": "cup", 
+        "qty": "1\u20444"
+    }, 
+    {
+        "comment": "minced", 
+        "name": "onion", 
+        "qty": "1\u20444", 
+        "input": "1\u20444 cup minced onion", 
+        "display": "<span class='qty'>1\u20444</span><span class='unit'>cup</span><span class='comment'>minced</span><span class='name'>onion</span>", 
+        "unit": "cup"
+    }, 
+    {
+        "input": "2 tablespoons lemon juice", 
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='name'>lemon juice</span>", 
+        "name": "lemon juice", 
+        "unit": "tablespoon", 
+        "qty": "2"
+    }, 
+    {
+        "input": "2 tablespoons panko bread crumbs", 
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='name'>panko bread crumbs</span>", 
+        "name": "panko bread crumbs", 
+        "unit": "tablespoon", 
+        "qty": "2"
+    }, 
+    {
+        "input": "1 tablespoon Worcestershire sauce", 
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='name'>Worcestershire sauce</span>", 
+        "name": "Worcestershire sauce", 
+        "unit": "tablespoon", 
+        "qty": "1"
+    }, 
+    {
+        "input": "1 teaspoon garlic powder", 
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='name'>garlic powder</span>", 
+        "name": "garlic powder", 
+        "unit": "teaspoon", 
+        "qty": "1"
+    }, 
+    {
+        "input": "1 teaspoon dry mustard", 
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='name'>dry mustard</span>", 
+        "name": "dry mustard", 
+        "unit": "teaspoon", 
+        "qty": "1"
+    }, 
+    {
+        "comment": "such as Old Bay\u00ae)", 
+        "name": "seafood seasoning", 
+        "qty": "1", 
+        "other": "(", 
+        "input": "1 teaspoon seafood seasoning (such as Old Bay\u00ae)", 
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='name'>seafood seasoning</span><span class='other'>(</span><span class='comment'>such as Old Bay\u00ae )</span>", 
+        "unit": "teaspoon"
+    }, 
+    {
+        "input": "3\u20444 cup panko bread crumbs", 
+        "display": "<span class='qty'>3\u20444</span><span class='unit'>cup</span><span class='name'>panko bread crumbs</span>", 
+        "name": "panko bread crumbs", 
+        "unit": "cup", 
+        "qty": "3\u20444"
+    }
+]

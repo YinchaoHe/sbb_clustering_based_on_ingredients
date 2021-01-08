@@ -1,0 +1,87 @@
+[
+    {
+        "comment": "eaches unpeeled", 
+        "input": "10 eaches unpeeled red potatoes", 
+        "display": "<span class='qty'>10</span><span class='comment'>eaches unpeeled</span><span class='name'>red potatoes</span>", 
+        "name": "red potatoes", 
+        "qty": "10"
+    }, 
+    {
+        "comment": "large", 
+        "name": "eggs hard boiled eggs", 
+        "qty": "5", 
+        "other": ", roughly chopped", 
+        "input": "5 large eggs hard boiled eggs, roughly chopped", 
+        "display": "<span class='qty'>5</span><span class='comment'>large</span><span class='name'>eggs hard boiled eggs</span><span class='other'>, roughly chopped</span>"
+    }, 
+    {
+        "input": "3\u20444 cup sour cream", 
+        "display": "<span class='qty'>3\u20444</span><span class='unit'>cup</span><span class='name'>sour cream</span>", 
+        "name": "sour cream", 
+        "unit": "cup", 
+        "qty": "3\u20444"
+    }, 
+    {
+        "input": "3\u20444 cup mayonnaise", 
+        "display": "<span class='qty'>3\u20444</span><span class='unit'>cup</span><span class='name'>mayonnaise</span>", 
+        "name": "mayonnaise", 
+        "unit": "cup", 
+        "qty": "3\u20444"
+    }, 
+    {
+        "comment": "or to taste", 
+        "name": "apple cider vinegar", 
+        "qty": "1", 
+        "other": ",", 
+        "input": "1 tablespoon apple cider vinegar, or to taste", 
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='name'>apple cider vinegar</span><span class='other'>,</span><span class='comment'>or to taste</span>", 
+        "unit": "tablespoon"
+    }, 
+    {
+        "comment": "or to taste", 
+        "name": "Dijon mustard", 
+        "qty": "1", 
+        "other": ",", 
+        "input": "1 tablespoon Dijon mustard, or to taste", 
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='name'>Dijon mustard</span><span class='other'>,</span><span class='comment'>or to taste</span>", 
+        "unit": "tablespoon"
+    }, 
+    {
+        "comment": "finely chopped", 
+        "name": "white onion", 
+        "qty": "1\u20442", 
+        "other": ",", 
+        "input": "1\u20442 white onion, finely chopped", 
+        "display": "<span class='qty'>1\u20442</span><span class='name'>white onion</span><span class='other'>,</span><span class='comment'>finely chopped</span>"
+    }, 
+    {
+        "comment": "finely chopped", 
+        "name": "celery", 
+        "qty": "1", 
+        "other": ",", 
+        "input": "1 stalk celery, finely chopped", 
+        "display": "<span class='qty'>1</span><span class='unit'>stalk</span><span class='name'>celery</span><span class='other'>,</span><span class='comment'>finely chopped</span>", 
+        "unit": "stalk"
+    }, 
+    {
+        "input": "1 teaspoon celery salt", 
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='name'>celery salt</span>", 
+        "name": "celery salt", 
+        "unit": "teaspoon", 
+        "qty": "1"
+    }, 
+    {
+        "comment": "to taste", 
+        "input": "salt and black pepper to taste", 
+        "name": "salt and black pepper", 
+        "display": "<span class='name'>salt and black pepper</span><span class='comment'>to taste</span>"
+    }, 
+    {
+        "comment": "dried", 
+        "name": "dill weed", 
+        "qty": "1", 
+        "input": "1 tablespoon dried dill weed", 
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='comment'>dried</span><span class='name'>dill weed</span>", 
+        "unit": "tablespoon"
+    }
+]

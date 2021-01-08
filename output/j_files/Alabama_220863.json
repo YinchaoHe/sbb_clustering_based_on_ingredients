@@ -1,0 +1,97 @@
+[
+    {
+        "comment": "dried, rinsed", 
+        "name": "red beans", 
+        "qty": "1", 
+        "input": "1 pound dried red beans, rinsed", 
+        "display": "<span class='qty'>1</span><span class='unit'>pound</span><span class='comment'>dried</span><span class='name'>red beans</span><span class='comment'>, rinsed</span>", 
+        "unit": "pound"
+    }, 
+    {
+        "comment": ", sliced", 
+        "input": "1 (1 pound) package smoked sausage, sliced", 
+        "display": "<span class='qty'>1</span><span class='name'>( 1 pound ) package smoked sausage</span><span class='comment'>, sliced</span>", 
+        "name": "(1 pound) package smoked sausage", 
+        "qty": "1"
+    }, 
+    {
+        "input": "1 bay leaf", 
+        "display": "<span class='qty'>1</span><span class='name'>bay leaf</span>", 
+        "name": "bay leaf", 
+        "qty": "1"
+    }, 
+    {
+        "comment": "or to taste", 
+        "name": "Cajun seasoning", 
+        "qty": "2", 
+        "other": ",", 
+        "input": "2 tablespoons Cajun seasoning, or to taste", 
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='name'>Cajun seasoning</span><span class='other'>,</span><span class='comment'>or to taste</span>", 
+        "unit": "tablespoon"
+    }, 
+    {
+        "comment": "chopped", 
+        "name": "garlic", 
+        "qty": "1\u20442", 
+        "other": ",", 
+        "input": "1\u20442 clove garlic, chopped", 
+        "display": "<span class='qty'>1\u20442</span><span class='unit'>clove</span><span class='name'>garlic</span><span class='other'>,</span><span class='comment'>chopped</span>", 
+        "unit": "clove"
+    }, 
+    {
+        "comment": "chopped", 
+        "name": "onion", 
+        "qty": "1\u20442", 
+        "other": ",", 
+        "input": "1\u20442 onion, chopped", 
+        "display": "<span class='qty'>1\u20442</span><span class='name'>onion</span><span class='other'>,</span><span class='comment'>chopped</span>"
+    }, 
+    {
+        "comment": "chopped", 
+        "name": "celery", 
+        "qty": "1", 
+        "other": ",", 
+        "input": "1 stalk celery, chopped", 
+        "display": "<span class='qty'>1</span><span class='unit'>stalk</span><span class='name'>celery</span><span class='other'>,</span><span class='comment'>chopped</span>", 
+        "unit": "stalk"
+    }, 
+    {
+        "comment": "chopped", 
+        "name": "green bell pepper", 
+        "qty": "1\u20442", 
+        "other": ",", 
+        "input": "1\u20442 green bell pepper, chopped", 
+        "display": "<span class='qty'>1\u20442</span><span class='name'>green bell pepper</span><span class='other'>,</span><span class='comment'>chopped</span>"
+    }, 
+    {
+        "input": "1 teaspoon salt", 
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='name'>salt</span>", 
+        "name": "salt", 
+        "unit": "teaspoon", 
+        "qty": "1"
+    }, 
+    {
+        "comment": "dried", 
+        "name": "parsley", 
+        "qty": "1", 
+        "input": "1 teaspoon dried parsley", 
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='comment'>dried</span><span class='name'>parsley</span>", 
+        "unit": "teaspoon"
+    }, 
+    {
+        "comment": "ground", 
+        "name": "cumin", 
+        "qty": "1\u20444", 
+        "input": "1\u20444 teaspoon ground cumin", 
+        "display": "<span class='qty'>1\u20444</span><span class='unit'>teaspoon</span><span class='comment'>ground</span><span class='name'>cumin</span>", 
+        "unit": "teaspoon"
+    }, 
+    {
+        "comment": "cold, or as needed", 
+        "name": "water", 
+        "qty": "5", 
+        "input": "5 cups cold water, or as needed", 
+        "display": "<span class='qty'>5</span><span class='unit'>cups</span><span class='comment'>cold</span><span class='name'>water</span><span class='comment'>, or as needed</span>", 
+        "unit": "cup"
+    }
+]

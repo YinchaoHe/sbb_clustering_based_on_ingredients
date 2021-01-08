@@ -1,0 +1,95 @@
+[
+    {
+        "input": "2 cups butter", 
+        "display": "<span class='qty'>2</span><span class='unit'>cups</span><span class='name'>butter</span>", 
+        "name": "butter", 
+        "unit": "cup", 
+        "qty": "2"
+    }, 
+    {
+        "input": "2 cups white sugar", 
+        "display": "<span class='qty'>2</span><span class='unit'>cups</span><span class='name'>white sugar</span>", 
+        "name": "white sugar", 
+        "unit": "cup", 
+        "qty": "2"
+    }, 
+    {
+        "comment": "packed", 
+        "name": "brown sugar", 
+        "qty": "2", 
+        "input": "2 cups packed brown sugar", 
+        "display": "<span class='qty'>2</span><span class='unit'>cups</span><span class='comment'>packed</span><span class='name'>brown sugar</span>", 
+        "unit": "cup"
+    }, 
+    {
+        "comment": "large", 
+        "input": "4 large eggs eggs", 
+        "display": "<span class='qty'>4</span><span class='comment'>large</span><span class='name'>eggs eggs</span>", 
+        "name": "eggs eggs", 
+        "qty": "4"
+    }, 
+    {
+        "input": "2 teaspoons vanilla extract", 
+        "display": "<span class='qty'>2</span><span class='unit'>teaspoons</span><span class='name'>vanilla extract</span>", 
+        "name": "vanilla extract", 
+        "unit": "teaspoon", 
+        "qty": "2"
+    }, 
+    {
+        "input": "3 cups all-purpose flour", 
+        "display": "<span class='qty'>3</span><span class='unit'>cups</span><span class='name'>all-purpose flour</span>", 
+        "name": "all-purpose flour", 
+        "unit": "cup", 
+        "qty": "3"
+    }, 
+    {
+        "input": "2 teaspoons salt", 
+        "display": "<span class='qty'>2</span><span class='unit'>teaspoons</span><span class='name'>salt</span>", 
+        "name": "salt", 
+        "unit": "teaspoon", 
+        "qty": "2"
+    }, 
+    {
+        "input": "2 teaspoons baking soda", 
+        "display": "<span class='qty'>2</span><span class='unit'>teaspoons</span><span class='name'>baking soda</span>", 
+        "name": "baking soda", 
+        "unit": "teaspoon", 
+        "qty": "2"
+    }, 
+    {
+        "input": "6 cups quick cooking oats", 
+        "display": "<span class='qty'>6</span><span class='unit'>cups</span><span class='name'>quick cooking oats</span>", 
+        "name": "quick cooking oats", 
+        "unit": "cup", 
+        "qty": "6"
+    }, 
+    {
+        "input": "2 cups chocolate chips", 
+        "display": "<span class='qty'>2</span><span class='unit'>cups</span><span class='name'>chocolate chips</span>", 
+        "name": "chocolate chips", 
+        "unit": "cup", 
+        "qty": "2"
+    }, 
+    {
+        "comment": "chopped and toasted", 
+        "name": "walnuts", 
+        "qty": "2", 
+        "input": "2 cups chopped and toasted walnuts", 
+        "display": "<span class='qty'>2</span><span class='unit'>cups</span><span class='comment'>chopped and toasted</span><span class='name'>walnuts</span>", 
+        "unit": "cup"
+    }, 
+    {
+        "input": "1 cup coconut", 
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='name'>coconut</span>", 
+        "name": "coconut", 
+        "unit": "cup", 
+        "qty": "1"
+    }, 
+    {
+        "input": "1 cup raisins", 
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='name'>raisins</span>", 
+        "name": "raisins", 
+        "unit": "cup", 
+        "qty": "1"
+    }
+]

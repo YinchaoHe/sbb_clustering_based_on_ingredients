@@ -1,0 +1,68 @@
+[
+    {
+        "comment": "skinned and gutted", 
+        "input": "3 large squirrels, skinned and gutted", 
+        "other": "large squirrels ,", 
+        "display": "<span class='qty'>3</span><span class='other'>large squirrels ,</span><span class='comment'>skinned and gutted</span>", 
+        "qty": "3"
+    }, 
+    {
+        "input": "1\u20442 cup butter", 
+        "other": "1\u20442", 
+        "name": "butter", 
+        "unit": "cup", 
+        "display": "<span class='other'>1\u20442</span><span class='unit'>cup</span><span class='name'>butter</span>"
+    }, 
+    {
+        "comment": "2-1/2\" dia) s, sliced", 
+        "name": "onions", 
+        "qty": "2", 
+        "other": "medium (", 
+        "input": "2 medium (2-1/2\" dia) s onions, sliced", 
+        "display": "<span class='qty'>2</span><span class='other'>medium (</span><span class='comment'>2-1/2\" dia ) s</span><span class='name'>onions</span><span class='comment'>, sliced</span>"
+    }, 
+    {
+        "input": "3 tablespoons white vinegar", 
+        "display": "<span class='qty'>3</span><span class='unit'>tablespoons</span><span class='name'>white vinegar</span>", 
+        "name": "white vinegar", 
+        "unit": "tablespoon", 
+        "qty": "3"
+    }, 
+    {
+        "comment": "dried", 
+        "name": "thyme", 
+        "qty": "1\u20448", 
+        "input": "1\u20448 teaspoon dried thyme", 
+        "display": "<span class='qty'>1\u20448</span><span class='unit'>teaspoon</span><span class='comment'>dried</span><span class='name'>thyme</span>", 
+        "unit": "teaspoon"
+    }, 
+    {
+        "comment": "to taste", 
+        "input": "salt and pepper to taste", 
+        "name": "salt and pepper", 
+        "display": "<span class='name'>salt and pepper</span><span class='comment'>to taste</span>"
+    }, 
+    {
+        "comment": "pitted", 
+        "input": "18 eaches pitted prunes", 
+        "display": "<span class='qty'>18</span><span class='name'>eaches</span><span class='comment'>pitted</span><span class='name'>prunes</span>", 
+        "name": "eaches prunes", 
+        "qty": "18"
+    }, 
+    {
+        "name": "all-purpose flour", 
+        "qty": "1", 
+        "other": "1\u20442", 
+        "input": "1 1\u20442 teaspoons all-purpose flour", 
+        "display": "<span class='qty'>1</span><span class='other'>1\u20442</span><span class='unit'>teaspoons</span><span class='name'>all-purpose flour</span>", 
+        "unit": "teaspoon"
+    }, 
+    {
+        "comment": "cold", 
+        "name": "water", 
+        "qty": "1", 
+        "input": "1 cup cold water", 
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='comment'>cold</span><span class='name'>water</span>", 
+        "unit": "cup"
+    }
+]

@@ -1,0 +1,136 @@
+[
+    {
+        "comment": "clarified", 
+        "name": "butter", 
+        "qty": "2\u20443", 
+        "input": "2\u20443 cup clarified butter", 
+        "display": "<span class='qty'>2\u20443</span><span class='unit'>cup</span><span class='comment'>clarified</span><span class='name'>butter</span>", 
+        "unit": "cup"
+    }, 
+    {
+        "name": "all-purpose flour", 
+        "qty": "1", 
+        "other": "1\u20444", 
+        "input": "1 1\u20444 cups all-purpose flour", 
+        "display": "<span class='qty'>1</span><span class='other'>1\u20444</span><span class='unit'>cups</span><span class='name'>all-purpose flour</span>", 
+        "unit": "cup"
+    }, 
+    {
+        "input": "4 cups water", 
+        "display": "<span class='qty'>4</span><span class='unit'>cups</span><span class='name'>water</span>", 
+        "name": "water", 
+        "unit": "cup", 
+        "qty": "4"
+    }, 
+    {
+        "input": "1\u20442 cup olive oil", 
+        "display": "<span class='qty'>1\u20442</span><span class='unit'>cup</span><span class='name'>olive oil</span>", 
+        "name": "olive oil", 
+        "unit": "cup", 
+        "qty": "1\u20442"
+    }, 
+    {
+        "comment": "small, chopped", 
+        "input": "1 small onion, chopped", 
+        "display": "<span class='qty'>1</span><span class='comment'>small</span><span class='name'>onion</span><span class='comment'>, chopped</span>", 
+        "name": "onion", 
+        "qty": "1"
+    }, 
+    {
+        "comment": "fresh, chopped", 
+        "name": "okra", 
+        "qty": "1", 
+        "input": "1 pound fresh okra, chopped", 
+        "display": "<span class='qty'>1</span><span class='unit'>pound</span><span class='comment'>fresh</span><span class='name'>okra</span><span class='comment'>, chopped</span>", 
+        "unit": "pound"
+    }, 
+    {
+        "comment": "chopped", 
+        "name": "green bell pepper", 
+        "qty": "1", 
+        "other": ",", 
+        "input": "1 green bell pepper, chopped", 
+        "display": "<span class='qty'>1</span><span class='name'>green bell pepper</span><span class='other'>,</span><span class='comment'>chopped</span>"
+    }, 
+    {
+        "comment": "16 ounce) can", 
+        "name": "tomato paste", 
+        "qty": "1", 
+        "other": "(", 
+        "input": "1 (16 ounce) can tomato paste", 
+        "display": "<span class='qty'>1</span><span class='other'>(</span><span class='comment'>16 ounce ) can</span><span class='name'>tomato paste</span>"
+    }, 
+    {
+        "comment": "diced", 
+        "name": "tomatoes", 
+        "qty": "1", 
+        "other": "3\u20444", 
+        "input": "1 3\u20444 cups diced tomatoes", 
+        "display": "<span class='qty'>1</span><span class='other'>3\u20444</span><span class='unit'>cups</span><span class='comment'>diced</span><span class='name'>tomatoes</span>", 
+        "unit": "cup"
+    }, 
+    {
+        "comment": "minced", 
+        "name": "garlic", 
+        "qty": "4", 
+        "other": ",", 
+        "input": "4 cloves garlic, minced", 
+        "display": "<span class='qty'>4</span><span class='unit'>cloves</span><span class='name'>garlic</span><span class='other'>,</span><span class='comment'>minced</span>", 
+        "unit": "clove"
+    }, 
+    {
+        "input": "2 tablespoons salt", 
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='name'>salt</span>", 
+        "name": "salt", 
+        "unit": "tablespoon", 
+        "qty": "2"
+    }, 
+    {
+        "comment": "ground", 
+        "name": "black pepper", 
+        "qty": "1\u20442", 
+        "input": "1\u20442 teaspoon ground black pepper", 
+        "display": "<span class='qty'>1\u20442</span><span class='unit'>teaspoon</span><span class='comment'>ground</span><span class='name'>black pepper</span>", 
+        "unit": "teaspoon"
+    }, 
+    {
+        "comment": "(blank) s", 
+        "input": "2 leaf (blank) s bay leaves", 
+        "display": "<span class='qty'>2</span><span class='name'>leaf</span><span class='comment'>( blank ) s</span><span class='name'>bay leaves</span>", 
+        "name": "leaf bay leaves", 
+        "qty": "2"
+    }, 
+    {
+        "comment": "such as Old Bay\u00ae)", 
+        "name": "seafood seasoning", 
+        "qty": "1", 
+        "other": "(", 
+        "input": "1 tablespoon seafood seasoning (such as Old Bay\u00ae)", 
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='name'>seafood seasoning</span><span class='other'>(</span><span class='comment'>such as Old Bay\u00ae )</span>", 
+        "unit": "tablespoon"
+    }, 
+    {
+        "comment": "uncooked medium, peeled and deveined", 
+        "name": "shrimp", 
+        "qty": "2", 
+        "input": "2 pounds uncooked medium shrimp, peeled and deveined", 
+        "display": "<span class='qty'>2</span><span class='unit'>pounds</span><span class='comment'>uncooked medium</span><span class='name'>shrimp</span><span class='comment'>, peeled and deveined</span>", 
+        "unit": "pound"
+    }, 
+    {
+        "comment": "cooked", 
+        "name": "crabmeat", 
+        "qty": "1", 
+        "input": "1 pound cooked crabmeat", 
+        "display": "<span class='qty'>1</span><span class='unit'>pound</span><span class='comment'>cooked</span><span class='name'>crabmeat</span>", 
+        "unit": "pound"
+    }, 
+    {
+        "comment": "shucked", 
+        "name": "oysters", 
+        "qty": "1", 
+        "input": "1 pound shucked oysters", 
+        "display": "<span class='qty'>1</span><span class='unit'>pound</span><span class='comment'>shucked</span><span class='name'>oysters</span>", 
+        "unit": "pound"
+    }
+]

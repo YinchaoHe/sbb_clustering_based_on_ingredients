@@ -1,0 +1,60 @@
+[
+    {
+        "input": "1 tablespoon butter", 
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='name'>butter</span>", 
+        "name": "butter", 
+        "unit": "tablespoon", 
+        "qty": "1"
+    }, 
+    {
+        "comment": ", cut into 1/2 inch pieces", 
+        "name": "beef stew meat", 
+        "qty": "1", 
+        "other": "1\u20442", 
+        "input": "1 1\u20442 pounds beef stew meat, cut into 1/2 inch pieces", 
+        "display": "<span class='qty'>1</span><span class='other'>1\u20442</span><span class='unit'>pounds</span><span class='name'>beef stew meat</span><span class='comment'>, cut into 1/2 inch pieces</span>", 
+        "unit": "pound"
+    }, 
+    {
+        "name": "can diced tomatoes and green chiles", 
+        "qty": "1", 
+        "other": "(10)", 
+        "input": "1 (10 ounce) can diced tomatoes and green chiles", 
+        "display": "<span class='qty'>1</span><span class='other'>( 10</span><span class='unit'>ounce</span><span class='other'>)</span><span class='name'>can diced tomatoes and green chiles</span>", 
+        "unit": "ounce"
+    }, 
+    {
+        "comment": "(14.5 ounce) cans stewed, diced", 
+        "input": "3 (14.5 ounce) cans stewed, diced tomatoes", 
+        "display": "<span class='qty'>3</span><span class='comment'>( 14.5 ounce ) cans stewed , diced</span><span class='name'>tomatoes</span>", 
+        "name": "tomatoes", 
+        "qty": "3"
+    }, 
+    {
+        "input": "1 (10 ounce) package frozen cut okra", 
+        "display": "<span class='qty'>1</span><span class='name'>( 10 ounce ) package frozen cut okra</span>", 
+        "name": "(10 ounce) package frozen cut okra", 
+        "qty": "1"
+    }, 
+    {
+        "input": "1 (10 ounce) package frozen baby lima beans", 
+        "display": "<span class='qty'>1</span><span class='name'>( 10 ounce ) package frozen baby lima beans</span>", 
+        "name": "(10 ounce) package frozen baby lima beans", 
+        "qty": "1"
+    }, 
+    {
+        "comment": "10 ounce) package frozen kernels", 
+        "name": "corn", 
+        "qty": "1", 
+        "other": "(", 
+        "input": "1 (10 ounce) package frozen corn kernels", 
+        "display": "<span class='qty'>1</span><span class='other'>(</span><span class='comment'>10 ounce ) package frozen</span><span class='name'>corn</span><span class='comment'>kernels</span>"
+    }, 
+    {
+        "comment": "medium, peeled and diced", 
+        "input": "4 medium potatoes, peeled and diced", 
+        "display": "<span class='qty'>4</span><span class='comment'>medium</span><span class='name'>potatoes</span><span class='comment'>, peeled and diced</span>", 
+        "name": "potatoes", 
+        "qty": "4"
+    }
+]

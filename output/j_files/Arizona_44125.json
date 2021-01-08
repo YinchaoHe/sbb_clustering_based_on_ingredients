@@ -1,0 +1,85 @@
+[
+    {
+        "comment": "boneless chuck roast, trimmed of fat", 
+        "name": "beef", 
+        "qty": "2", 
+        "input": "2 pounds boneless beef chuck roast, trimmed of fat", 
+        "display": "<span class='qty'>2</span><span class='unit'>pounds</span><span class='comment'>boneless</span><span class='name'>beef</span><span class='comment'>chuck roast , trimmed of fat</span>", 
+        "unit": "pound"
+    }, 
+    {
+        "input": "1\u20444 cup water", 
+        "other": "1\u20444", 
+        "name": "water", 
+        "unit": "cup", 
+        "display": "<span class='other'>1\u20444</span><span class='unit'>cup</span><span class='name'>water</span>"
+    }, 
+    {
+        "name": "beef broth", 
+        "qty": "1", 
+        "other": "1\u20442", 
+        "input": "1 1\u20442 cups beef broth", 
+        "display": "<span class='qty'>1</span><span class='other'>1\u20442</span><span class='unit'>cups</span><span class='name'>beef broth</span>", 
+        "unit": "cup"
+    }, 
+    {
+        "input": "3 tablespoons red wine vinegar", 
+        "display": "<span class='qty'>3</span><span class='unit'>tablespoons</span><span class='name'>red wine vinegar</span>", 
+        "name": "red wine vinegar", 
+        "unit": "tablespoon", 
+        "qty": "3"
+    }, 
+    {
+        "input": "2 tablespoons chili powder", 
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='name'>chili powder</span>", 
+        "name": "chili powder", 
+        "unit": "tablespoon", 
+        "qty": "2"
+    }, 
+    {
+        "comment": "ground", 
+        "name": "cumin", 
+        "qty": "1", 
+        "input": "1 teaspoon ground cumin", 
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='comment'>ground</span><span class='name'>cumin</span>", 
+        "unit": "teaspoon"
+    }, 
+    {
+        "input": "4 (8 inch) flour tortilla", 
+        "other": "(8 inch)", 
+        "display": "<span class='qty'>4</span><span class='other'>( 8 inch )</span><span class='name'>flour tortilla</span>", 
+        "name": "flour tortilla", 
+        "qty": "4"
+    }, 
+    {
+        "comment": "melted", 
+        "name": "butter", 
+        "qty": "3", 
+        "other": ",", 
+        "input": "3 tablespoons butter, melted", 
+        "display": "<span class='qty'>3</span><span class='unit'>tablespoons</span><span class='name'>butter</span><span class='other'>,</span><span class='comment'>melted</span>", 
+        "unit": "tablespoon"
+    }, 
+    {
+        "input": "1 cup salsa", 
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='name'>salsa</span>", 
+        "name": "salsa", 
+        "unit": "cup", 
+        "qty": "1"
+    }, 
+    {
+        "comment": "shredded", 
+        "name": "Monterey Jack cheese", 
+        "other": "1\u20442", 
+        "input": "1\u20442 cup shredded Monterey Jack cheese", 
+        "display": "<span class='other'>1\u20442</span><span class='unit'>cup</span><span class='comment'>shredded</span><span class='name'>Monterey Jack cheese</span>", 
+        "unit": "cup"
+    }, 
+    {
+        "input": "1\u20442 cup sour cream", 
+        "display": "<span class='qty'>1\u20442</span><span class='unit'>cup</span><span class='name'>sour cream</span>", 
+        "name": "sour cream", 
+        "unit": "cup", 
+        "qty": "1\u20442"
+    }
+]

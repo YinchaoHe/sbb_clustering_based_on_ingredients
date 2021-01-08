@@ -1,0 +1,62 @@
+[
+    {
+        "input": "2 tablespoons olive oil", 
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='name'>olive oil</span>", 
+        "name": "olive oil", 
+        "unit": "tablespoon", 
+        "qty": "2"
+    }, 
+    {
+        "comment": "minced", 
+        "name": "garlic", 
+        "qty": "6", 
+        "other": ",", 
+        "input": "6 cloves garlic, minced", 
+        "display": "<span class='qty'>6</span><span class='unit'>cloves</span><span class='name'>garlic</span><span class='other'>,</span><span class='comment'>minced</span>", 
+        "unit": "clove"
+    }, 
+    {
+        "comment": "large, chopped", 
+        "input": "5 large tomatoes, chopped", 
+        "display": "<span class='qty'>5</span><span class='comment'>large</span><span class='name'>tomatoes</span><span class='comment'>, chopped</span>", 
+        "name": "tomatoes", 
+        "qty": "5"
+    }, 
+    {
+        "comment": "dried", 
+        "name": "oregano", 
+        "qty": "1", 
+        "input": "1 teaspoon dried oregano", 
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='comment'>dried</span><span class='name'>oregano</span>", 
+        "unit": "teaspoon"
+    }, 
+    {
+        "input": "1 pound Alaskan cod", 
+        "display": "<span class='qty'>1</span><span class='unit'>pound</span><span class='name'>Alaskan cod</span>", 
+        "name": "Alaskan cod", 
+        "unit": "pound", 
+        "qty": "1"
+    }, 
+    {
+        "comment": "large, peeled and deveined", 
+        "name": "shrimp", 
+        "qty": "1\u20442", 
+        "input": "1\u20442 pound large shrimp, peeled and deveined", 
+        "display": "<span class='qty'>1\u20442</span><span class='unit'>pound</span><span class='comment'>large</span><span class='name'>shrimp</span><span class='comment'>, peeled and deveined</span>", 
+        "unit": "pound"
+    }, 
+    {
+        "comment": "to taste", 
+        "input": "salt to taste", 
+        "name": "salt", 
+        "display": "<span class='name'>salt</span><span class='comment'>to taste</span>"
+    }, 
+    {
+        "comment": "dried, or to taste", 
+        "name": "oregano", 
+        "qty": "1", 
+        "input": "1 tablespoon dried oregano, or to taste", 
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='comment'>dried</span><span class='name'>oregano</span><span class='comment'>, or to taste</span>", 
+        "unit": "tablespoon"
+    }
+]

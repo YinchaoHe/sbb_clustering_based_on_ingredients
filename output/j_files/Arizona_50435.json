@@ -1,0 +1,86 @@
+[
+    {
+        "comment": "15.5 ounce) can", 
+        "name": "pinto beans", 
+        "qty": "1", 
+        "other": "(, with liquid", 
+        "input": "1 (15.5 ounce) can pinto beans, with liquid", 
+        "display": "<span class='qty'>1</span><span class='other'>(</span><span class='comment'>15.5 ounce ) can</span><span class='name'>pinto beans</span><span class='other'>, with liquid</span>"
+    }, 
+    {
+        "name": "picante sauce", 
+        "qty": "1\u20442", 
+        "other": ", divided", 
+        "input": "1\u20442 cup picante sauce, divided", 
+        "display": "<span class='qty'>1\u20442</span><span class='unit'>cup</span><span class='name'>picante sauce</span><span class='other'>, divided</span>", 
+        "unit": "cup"
+    }, 
+    {
+        "comment": "ground", 
+        "name": "beef", 
+        "qty": "1", 
+        "input": "1 pound ground beef", 
+        "display": "<span class='qty'>1</span><span class='unit'>pound</span><span class='comment'>ground</span><span class='name'>beef</span>", 
+        "unit": "pound"
+    }, 
+    {
+        "comment": "1.25 ounce) package", 
+        "name": "taco seasoning mix", 
+        "qty": "1", 
+        "other": "(", 
+        "input": "1 (1.25 ounce) package taco seasoning mix", 
+        "display": "<span class='qty'>1</span><span class='other'>(</span><span class='comment'>1.25 ounce ) package</span><span class='name'>taco seasoning mix</span>"
+    }, 
+    {
+        "comment": "or more as needed", 
+        "name": "all-purpose flour", 
+        "qty": "2", 
+        "other": ",", 
+        "input": "2 cups all-purpose flour, or more as needed", 
+        "display": "<span class='qty'>2</span><span class='unit'>cups</span><span class='name'>all-purpose flour</span><span class='other'>,</span><span class='comment'>or more as needed</span>", 
+        "unit": "cup"
+    }, 
+    {
+        "input": "1 tablespoon baking powder", 
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='name'>baking powder</span>", 
+        "name": "baking powder", 
+        "unit": "tablespoon", 
+        "qty": "1"
+    }, 
+    {
+        "input": "1 teaspoon salt", 
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='name'>salt</span>", 
+        "name": "salt", 
+        "unit": "teaspoon", 
+        "qty": "1"
+    }, 
+    {
+        "input": "1 cup milk", 
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='name'>milk</span>", 
+        "name": "milk", 
+        "unit": "cup", 
+        "qty": "1"
+    }, 
+    {
+        "comment": "for frying", 
+        "input": "oil for frying", 
+        "name": "oil", 
+        "display": "<span class='name'>oil</span><span class='comment'>for frying</span>"
+    }, 
+    {
+        "comment": "shredded", 
+        "name": "iceberg lettuce", 
+        "qty": "2", 
+        "input": "2 cups shredded iceberg lettuce", 
+        "display": "<span class='qty'>2</span><span class='unit'>cups</span><span class='comment'>shredded</span><span class='name'>iceberg lettuce</span>", 
+        "unit": "cup"
+    }, 
+    {
+        "comment": "shredded", 
+        "name": "Cheddar cheese", 
+        "qty": "1", 
+        "input": "1 cup shredded Cheddar cheese", 
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='comment'>shredded</span><span class='name'>Cheddar cheese</span>", 
+        "unit": "cup"
+    }
+]

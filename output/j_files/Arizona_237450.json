@@ -1,0 +1,67 @@
+[
+    {
+        "comment": ", peeled and chopped", 
+        "input": "3 eaches sweet potatoes, peeled and chopped", 
+        "display": "<span class='qty'>3</span><span class='name'>eaches sweet potatoes</span><span class='comment'>, peeled and chopped</span>", 
+        "name": "eaches sweet potatoes", 
+        "qty": "3"
+    }, 
+    {
+        "input": "2 cups beef broth", 
+        "display": "<span class='qty'>2</span><span class='unit'>cups</span><span class='name'>beef broth</span>", 
+        "name": "beef broth", 
+        "unit": "cup", 
+        "qty": "2"
+    }, 
+    {
+        "comment": "unsweetened", 
+        "name": "coconut milk", 
+        "qty": "1", 
+        "input": "1 cup unsweetened coconut milk", 
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='comment'>unsweetened</span><span class='name'>coconut milk</span>", 
+        "unit": "cup"
+    }, 
+    {
+        "comment": "small, minced", 
+        "input": "1 small shallot, minced", 
+        "display": "<span class='qty'>1</span><span class='comment'>small</span><span class='name'>shallot</span><span class='comment'>, minced</span>", 
+        "name": "shallot", 
+        "qty": "1"
+    }, 
+    {
+        "comment": "grade B", 
+        "name": "maple syrup", 
+        "qty": "2", 
+        "input": "2 tablespoons grade B maple syrup", 
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='comment'>grade B</span><span class='name'>maple syrup</span>", 
+        "unit": "tablespoon"
+    }, 
+    {
+        "input": "2 teaspoons curry powder", 
+        "display": "<span class='qty'>2</span><span class='unit'>teaspoons</span><span class='name'>curry powder</span>", 
+        "name": "curry powder", 
+        "unit": "teaspoon", 
+        "qty": "2"
+    }, 
+    {
+        "input": "1 teaspoon sea salt", 
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='name'>sea salt</span>", 
+        "name": "sea salt", 
+        "unit": "teaspoon", 
+        "qty": "1"
+    }, 
+    {
+        "input": "1 teaspoon chili powder", 
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='name'>chili powder</span>", 
+        "name": "chili powder", 
+        "unit": "teaspoon", 
+        "qty": "1"
+    }, 
+    {
+        "input": "1 teaspoon Spanish smoked paprika", 
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='name'>Spanish smoked paprika</span>", 
+        "name": "Spanish smoked paprika", 
+        "unit": "teaspoon", 
+        "qty": "1"
+    }
+]

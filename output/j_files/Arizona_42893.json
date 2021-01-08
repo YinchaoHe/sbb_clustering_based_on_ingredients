@@ -1,0 +1,87 @@
+[
+    {
+        "comment": "ground", 
+        "name": "beef", 
+        "qty": "3", 
+        "input": "3 pounds ground beef", 
+        "display": "<span class='qty'>3</span><span class='unit'>pounds</span><span class='comment'>ground</span><span class='name'>beef</span>", 
+        "unit": "pound"
+    }, 
+    {
+        "comment": "large, diced", 
+        "input": "2 large onions, diced", 
+        "display": "<span class='qty'>2</span><span class='comment'>large</span><span class='name'>onions</span><span class='comment'>, diced</span>", 
+        "name": "onions", 
+        "qty": "2"
+    }, 
+    {
+        "input": "2 tablespoons chili powder", 
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='name'>chili powder</span>", 
+        "name": "chili powder", 
+        "unit": "tablespoon", 
+        "qty": "2"
+    }, 
+    {
+        "comment": "2-1/4\" to 3\" dia, raw)", 
+        "name": "s potatoes, diced", 
+        "qty": "6", 
+        "other": "medium (", 
+        "input": "6 medium (2-1/4\" to 3\" dia, raw) s potatoes, diced", 
+        "display": "<span class='qty'>6</span><span class='other'>medium (</span><span class='comment'>2-1/4\" to 3\" dia , raw )</span><span class='name'>s potatoes , diced</span>"
+    }, 
+    {
+        "comment": "diced", 
+        "name": "carrots", 
+        "qty": "1", 
+        "other": ",", 
+        "input": "1 pound carrots, diced", 
+        "display": "<span class='qty'>1</span><span class='unit'>pound</span><span class='name'>carrots</span><span class='other'>,</span><span class='comment'>diced</span>", 
+        "unit": "pound"
+    }, 
+    {
+        "input": "3 cups white hominy", 
+        "display": "<span class='qty'>3</span><span class='unit'>cups</span><span class='name'>white hominy</span>", 
+        "name": "white hominy", 
+        "unit": "cup", 
+        "qty": "3"
+    }, 
+    {
+        "comment": "whole peeled with liquid", 
+        "name": "tomatoes", 
+        "qty": "3", 
+        "other": "(8 ounce), chopped", 
+        "input": "3 (8 ounce) cans whole peeled tomatoes with liquid, chopped", 
+        "display": "<span class='qty'>3</span><span class='other'>( 8 ounce )</span><span class='unit'>cans</span><span class='comment'>whole peeled</span><span class='name'>tomatoes</span><span class='comment'>with liquid</span><span class='other'>, chopped</span>", 
+        "unit": "can"
+    }, 
+    {
+        "comment": "with juice", 
+        "name": "green chiles", 
+        "qty": "2", 
+        "other": "(4 ounce) cans chopped ,", 
+        "input": "2 (4 ounce) cans chopped green chiles, with juice", 
+        "display": "<span class='qty'>2</span><span class='other'>( 4 ounce ) cans chopped</span><span class='name'>green chiles</span><span class='other'>,</span><span class='comment'>with juice</span>"
+    }, 
+    {
+        "input": "3 cups beef broth", 
+        "display": "<span class='qty'>3</span><span class='unit'>cups</span><span class='name'>beef broth</span>", 
+        "name": "beef broth", 
+        "unit": "cup", 
+        "qty": "3"
+    }, 
+    {
+        "input": "1\u20442 teaspoon salt", 
+        "display": "<span class='qty'>1\u20442</span><span class='unit'>teaspoon</span><span class='name'>salt</span>", 
+        "name": "salt", 
+        "unit": "teaspoon", 
+        "qty": "1\u20442"
+    }, 
+    {
+        "comment": "ground", 
+        "name": "black pepper", 
+        "qty": "1\u20442", 
+        "input": "1\u20442 teaspoon ground black pepper", 
+        "display": "<span class='qty'>1\u20442</span><span class='unit'>teaspoon</span><span class='comment'>ground</span><span class='name'>black pepper</span>", 
+        "unit": "teaspoon"
+    }
+]

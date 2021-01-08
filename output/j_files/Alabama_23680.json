@@ -1,0 +1,52 @@
+[
+    {
+        "input": "1 fluid ounce sloe gin", 
+        "display": "<span class='qty'>1</span><span class='name'>fluid</span><span class='unit'>ounce</span><span class='name'>sloe gin</span>", 
+        "name": "fluid sloe gin", 
+        "unit": "ounce", 
+        "qty": "1"
+    }, 
+    {
+        "input": "1 fluid ounce Southern Comfort", 
+        "display": "<span class='qty'>1</span><span class='name'>fluid</span><span class='unit'>ounce</span><span class='name'>Southern Comfort</span>", 
+        "name": "fluid Southern Comfort", 
+        "unit": "ounce", 
+        "qty": "1"
+    }, 
+    {
+        "input": "1 fluid ounce triple sec liqueur", 
+        "display": "<span class='qty'>1</span><span class='name'>fluid</span><span class='unit'>ounce</span><span class='name'>triple sec liqueur</span>", 
+        "name": "fluid triple sec liqueur", 
+        "unit": "ounce", 
+        "qty": "1"
+    }, 
+    {
+        "input": "1 fluid ounce Galliano", 
+        "display": "<span class='qty'>1</span><span class='name'>fluid</span><span class='unit'>ounce</span><span class='name'>Galliano</span>", 
+        "name": "fluid Galliano", 
+        "unit": "ounce", 
+        "qty": "1"
+    }, 
+    {
+        "name": "orange juice", 
+        "qty": "6", 
+        "other": "fluid", 
+        "input": "6 fluid ounces orange juice", 
+        "display": "<span class='qty'>6</span><span class='other'>fluid</span><span class='unit'>ounces</span><span class='name'>orange juice</span>", 
+        "unit": "ounce"
+    }, 
+    {
+        "input": "2 cherries maraschino cherries", 
+        "display": "<span class='qty'>2</span><span class='name'>cherries maraschino cherries</span>", 
+        "name": "cherries maraschino cherries", 
+        "qty": "2"
+    }, 
+    {
+        "comment": ", garnish", 
+        "name": "orange", 
+        "qty": "1", 
+        "input": "1 slice orange, garnish", 
+        "display": "<span class='qty'>1</span><span class='unit'>slice</span><span class='name'>orange</span><span class='comment'>, garnish</span>", 
+        "unit": "slice"
+    }
+]

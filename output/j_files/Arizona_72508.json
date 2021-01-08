@@ -1,0 +1,146 @@
+[
+    {
+        "input": "1 tablespoon olive oil", 
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='name'>olive oil</span>", 
+        "name": "olive oil", 
+        "unit": "tablespoon", 
+        "qty": "1"
+    }, 
+    {
+        "comment": "medium, chopped", 
+        "input": "1\u20442 medium onion, chopped", 
+        "display": "<span class='qty'>1\u20442</span><span class='comment'>medium</span><span class='name'>onion</span><span class='comment'>, chopped</span>", 
+        "name": "onion", 
+        "qty": "1\u20442"
+    }, 
+    {
+        "comment": "(blank) s", 
+        "input": "2 leaf (blank) s bay leaves", 
+        "display": "<span class='qty'>2</span><span class='name'>leaf</span><span class='comment'>( blank ) s</span><span class='name'>bay leaves</span>", 
+        "name": "leaf bay leaves", 
+        "qty": "2"
+    }, 
+    {
+        "comment": "ground", 
+        "name": "cumin", 
+        "qty": "1", 
+        "input": "1 teaspoon ground cumin", 
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='comment'>ground</span><span class='name'>cumin</span>", 
+        "unit": "teaspoon"
+    }, 
+    {
+        "comment": "dried", 
+        "name": "oregano", 
+        "qty": "2", 
+        "input": "2 tablespoons dried oregano", 
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='comment'>dried</span><span class='name'>oregano</span>", 
+        "unit": "tablespoon"
+    }, 
+    {
+        "input": "1 tablespoon salt", 
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='name'>salt</span>", 
+        "name": "salt", 
+        "unit": "tablespoon", 
+        "qty": "1"
+    }, 
+    {
+        "comment": "chopped", 
+        "name": "celery", 
+        "qty": "2", 
+        "other": ",", 
+        "input": "2 stalks celery, chopped", 
+        "display": "<span class='qty'>2</span><span class='unit'>stalks</span><span class='name'>celery</span><span class='other'>,</span><span class='comment'>chopped</span>", 
+        "unit": "stalk"
+    }, 
+    {
+        "comment": "medium (blank) s, chopped", 
+        "input": "2 medium (blank) s green bell peppers, chopped", 
+        "display": "<span class='qty'>2</span><span class='comment'>medium ( blank ) s</span><span class='name'>green bell peppers</span><span class='comment'>, chopped</span>", 
+        "name": "green bell peppers", 
+        "qty": "2"
+    }, 
+    {
+        "comment": ", chopped", 
+        "input": "2 peppers jalapeno peppers, chopped", 
+        "display": "<span class='qty'>2</span><span class='name'>peppers jalapeno peppers</span><span class='comment'>, chopped</span>", 
+        "name": "peppers jalapeno peppers", 
+        "qty": "2"
+    }, 
+    {
+        "comment": "chopped", 
+        "name": "garlic", 
+        "qty": "3", 
+        "other": ",", 
+        "input": "3 cloves garlic, chopped", 
+        "display": "<span class='qty'>3</span><span class='unit'>cloves</span><span class='name'>garlic</span><span class='other'>,</span><span class='comment'>chopped</span>", 
+        "unit": "clove"
+    }, 
+    {
+        "comment": "(4 ounce) cans chopped drained", 
+        "name": "green chile peppers", 
+        "qty": "2", 
+        "other": ",", 
+        "input": "2 (4 ounce) cans chopped green chile peppers, drained", 
+        "display": "<span class='qty'>2</span><span class='comment'>( 4 ounce ) cans chopped</span><span class='name'>green chile peppers</span><span class='other'>,</span><span class='comment'>drained</span>"
+    }, 
+    {
+        "input": "2 (12 ounce) packages vegetarian burger crumbles", 
+        "other": "(12) packages vegetarian burger crumbles", 
+        "display": "<span class='qty'>2</span><span class='other'>( 12</span><span class='unit'>ounce</span><span class='other'>) packages vegetarian burger crumbles</span>", 
+        "unit": "ounce", 
+        "qty": "2"
+    }, 
+    {
+        "input": "3 (28 ounce) cans whole peeled tomatoes, crushed", 
+        "display": "<span class='qty'>3</span><span class='name'>( 28 ounce ) cans whole peeled tomatoes , crushed</span>", 
+        "name": "(28 ounce) cans whole peeled tomatoes, crushed", 
+        "qty": "3"
+    }, 
+    {
+        "input": "1\u20444 cup chili powder", 
+        "display": "<span class='qty'>1\u20444</span><span class='unit'>cup</span><span class='name'>chili powder</span>", 
+        "name": "chili powder", 
+        "unit": "cup", 
+        "qty": "1\u20444"
+    }, 
+    {
+        "comment": "ground", 
+        "name": "black pepper", 
+        "qty": "1", 
+        "input": "1 tablespoon ground black pepper", 
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='comment'>ground</span><span class='name'>black pepper</span>", 
+        "unit": "tablespoon"
+    }, 
+    {
+        "comment": "15 ounce) can, drained", 
+        "name": "kidney beans", 
+        "qty": "1", 
+        "other": "(", 
+        "input": "1 (15 ounce) can kidney beans, drained", 
+        "display": "<span class='qty'>1</span><span class='other'>(</span><span class='comment'>15 ounce ) can</span><span class='name'>kidney beans</span><span class='comment'>, drained</span>"
+    }, 
+    {
+        "comment": "15 ounce) can garbanzo, drained", 
+        "name": "beans", 
+        "qty": "1", 
+        "other": "(", 
+        "input": "1 (15 ounce) can garbanzo beans, drained", 
+        "display": "<span class='qty'>1</span><span class='other'>(</span><span class='comment'>15 ounce ) can garbanzo</span><span class='name'>beans</span><span class='comment'>, drained</span>"
+    }, 
+    {
+        "comment": "15 ounce) can", 
+        "name": "black beans", 
+        "qty": "1", 
+        "other": "(", 
+        "input": "1 (15 ounce) can black beans", 
+        "display": "<span class='qty'>1</span><span class='other'>(</span><span class='comment'>15 ounce ) can</span><span class='name'>black beans</span>"
+    }, 
+    {
+        "name": "can whole kernel corn", 
+        "qty": "1", 
+        "other": "(15)", 
+        "input": "1 (15 ounce) can whole kernel corn", 
+        "display": "<span class='qty'>1</span><span class='other'>( 15</span><span class='unit'>ounce</span><span class='other'>)</span><span class='name'>can whole kernel corn</span>", 
+        "unit": "ounce"
+    }
+]

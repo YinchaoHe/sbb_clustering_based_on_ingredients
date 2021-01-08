@@ -1,0 +1,85 @@
+[
+    {
+        "comment": ", halved and seeded", 
+        "name": "Hatch chile peppers", 
+        "qty": "1", 
+        "input": "1 pound Hatch chile peppers, halved and seeded", 
+        "display": "<span class='qty'>1</span><span class='unit'>pound</span><span class='name'>Hatch chile peppers</span><span class='comment'>, halved and seeded</span>", 
+        "unit": "pound"
+    }, 
+    {
+        "comment": ", cubed", 
+        "name": "boneless pork roast", 
+        "qty": "1", 
+        "other": "(3 pound)", 
+        "input": "1 (3 pound) boneless pork roast, cubed", 
+        "display": "<span class='qty'>1</span><span class='other'>( 3 pound )</span><span class='name'>boneless pork roast</span><span class='comment'>, cubed</span>"
+    }, 
+    {
+        "input": "2 cups all-purpose flour", 
+        "display": "<span class='qty'>2</span><span class='unit'>cups</span><span class='name'>all-purpose flour</span>", 
+        "name": "all-purpose flour", 
+        "unit": "cup", 
+        "qty": "2"
+    }, 
+    {
+        "name": "salt", 
+        "qty": "3", 
+        "other": ", divided", 
+        "input": "3 tablespoons salt, divided", 
+        "display": "<span class='qty'>3</span><span class='unit'>tablespoons</span><span class='name'>salt</span><span class='other'>, divided</span>", 
+        "unit": "tablespoon"
+    }, 
+    {
+        "comment": "coarsely ground", 
+        "name": "black pepper", 
+        "qty": "3", 
+        "other": ", divided", 
+        "input": "3 tablespoons coarsely ground black pepper, divided", 
+        "display": "<span class='qty'>3</span><span class='unit'>tablespoons</span><span class='comment'>coarsely ground</span><span class='name'>black pepper</span><span class='other'>, divided</span>", 
+        "unit": "tablespoon"
+    }, 
+    {
+        "input": "1\u20444 cup vegetable oil", 
+        "other": "1\u20444", 
+        "name": "vegetable oil", 
+        "unit": "cup", 
+        "display": "<span class='other'>1\u20444</span><span class='unit'>cup</span><span class='name'>vegetable oil</span>"
+    }, 
+    {
+        "input": "2 cups chicken stock", 
+        "display": "<span class='qty'>2</span><span class='unit'>cups</span><span class='name'>chicken stock</span>", 
+        "name": "chicken stock", 
+        "unit": "cup", 
+        "qty": "2"
+    }, 
+    {
+        "input": "1 (15 ounce) can diced tomatoes with green chile peppers", 
+        "other": "(15 ounce)", 
+        "display": "<span class='qty'>1</span><span class='other'>( 15 ounce )</span><span class='name'>can diced tomatoes with green chile peppers</span>", 
+        "name": "can diced tomatoes with green chile peppers", 
+        "qty": "1"
+    }, 
+    {
+        "comment": "large sweet, chopped", 
+        "input": "1 large sweet onion, chopped", 
+        "display": "<span class='qty'>1</span><span class='comment'>large sweet</span><span class='name'>onion</span><span class='comment'>, chopped</span>", 
+        "name": "onion", 
+        "qty": "1"
+    }, 
+    {
+        "comment": "ground", 
+        "name": "cumin", 
+        "qty": "2", 
+        "input": "2 tablespoons ground cumin", 
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='comment'>ground</span><span class='name'>cumin</span>", 
+        "unit": "tablespoon"
+    }, 
+    {
+        "input": "3 cloves garlic", 
+        "display": "<span class='qty'>3</span><span class='unit'>cloves</span><span class='name'>garlic</span>", 
+        "name": "garlic", 
+        "unit": "clove", 
+        "qty": "3"
+    }
+]

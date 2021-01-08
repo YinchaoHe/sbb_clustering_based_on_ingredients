@@ -1,0 +1,112 @@
+[
+    {
+        "comment": "medium whole (2-3/5\" dia) (blank) s diced", 
+        "name": "tomatoes", 
+        "qty": "2", 
+        "other": ",", 
+        "input": "2 medium whole (2-3/5\" dia) (blank) s tomatoes, diced", 
+        "display": "<span class='qty'>2</span><span class='comment'>medium whole ( 2-3/5\" dia ) ( blank ) s</span><span class='name'>tomatoes</span><span class='other'>,</span><span class='comment'>diced</span>"
+    }, 
+    {
+        "comment": "finely chopped", 
+        "name": "onion", 
+        "qty": "1", 
+        "other": ",", 
+        "input": "1 onion, finely chopped", 
+        "display": "<span class='qty'>1</span><span class='name'>onion</span><span class='other'>,</span><span class='comment'>finely chopped</span>"
+    }, 
+    {
+        "comment": "(2\" dia) s, juiced", 
+        "input": "2 lime (2\" dia) s limes, juiced", 
+        "display": "<span class='qty'>2</span><span class='name'>lime</span><span class='comment'>( 2\" dia ) s</span><span class='name'>limes</span><span class='comment'>, juiced</span>", 
+        "name": "lime limes", 
+        "qty": "2"
+    }, 
+    {
+        "comment": "chopped fresh", 
+        "name": "cilantro", 
+        "qty": "2", 
+        "input": "2 tablespoons chopped fresh cilantro", 
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='comment'>chopped fresh</span><span class='name'>cilantro</span>", 
+        "unit": "tablespoon"
+    }, 
+    {
+        "comment": "seeded and minced", 
+        "name": "jalapeno pepper", 
+        "qty": "1", 
+        "other": ",", 
+        "input": "1 jalapeno pepper, seeded and minced", 
+        "display": "<span class='qty'>1</span><span class='name'>jalapeno pepper</span><span class='other'>,</span><span class='comment'>seeded and minced</span>"
+    }, 
+    {
+        "comment": "to taste", 
+        "input": "salt and pepper to taste", 
+        "name": "salt and pepper", 
+        "display": "<span class='name'>salt and pepper</span><span class='comment'>to taste</span>"
+    }, 
+    {
+        "name": "olive oil", 
+        "qty": "2", 
+        "other": ", divided", 
+        "input": "2 tablespoons olive oil, divided", 
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='name'>olive oil</span><span class='other'>, divided</span>", 
+        "unit": "tablespoon"
+    }, 
+    {
+        "comment": "bone and skin removed (blank) s skinless boneless chicken breast halves - cut into strips", 
+        "name": "breast", 
+        "qty": "2", 
+        "other": "half, ,", 
+        "input": "2 breast half, bone and skin removed (blank) s skinless, boneless chicken breast halves - cut into strips", 
+        "display": "<span class='qty'>2</span><span class='name'>breast</span><span class='other'>half ,</span><span class='comment'>bone and skin removed ( blank ) s skinless</span><span class='other'>,</span><span class='comment'>boneless chicken breast halves - cut into strips</span>"
+    }, 
+    {
+        "comment": "thinly sliced", 
+        "name": "onion", 
+        "qty": "1\u20442", 
+        "other": ",", 
+        "input": "1\u20442 onion, thinly sliced", 
+        "display": "<span class='qty'>1\u20442</span><span class='name'>onion</span><span class='other'>,</span><span class='comment'>thinly sliced</span>"
+    }, 
+    {
+        "comment": "thinly sliced", 
+        "name": "green bell pepper", 
+        "qty": "1", 
+        "other": ",", 
+        "input": "1 green bell pepper, thinly sliced", 
+        "display": "<span class='qty'>1</span><span class='name'>green bell pepper</span><span class='other'>,</span><span class='comment'>thinly sliced</span>"
+    }, 
+    {
+        "comment": "minced", 
+        "name": "garlic", 
+        "qty": "2", 
+        "other": ",", 
+        "input": "2 cloves garlic, minced", 
+        "display": "<span class='qty'>2</span><span class='unit'>cloves</span><span class='name'>garlic</span><span class='other'>,</span><span class='comment'>minced</span>", 
+        "unit": "clove"
+    }, 
+    {
+        "input": "4 (12 inch) flour tortillas", 
+        "other": "(12 inch)", 
+        "display": "<span class='qty'>4</span><span class='other'>( 12 inch )</span><span class='name'>flour tortillas</span>", 
+        "name": "flour tortillas", 
+        "qty": "4"
+    }, 
+    {
+        "comment": "shredded", 
+        "name": "Monterey Jack cheese", 
+        "qty": "1", 
+        "input": "1 cup shredded Monterey Jack cheese", 
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='comment'>shredded</span><span class='name'>Monterey Jack cheese</span>", 
+        "unit": "cup"
+    }, 
+    {
+        "comment": "for topping", 
+        "name": "sour cream", 
+        "qty": "1\u20444", 
+        "other": ",", 
+        "input": "1\u20444 cup sour cream, for topping", 
+        "display": "<span class='qty'>1\u20444</span><span class='unit'>cup</span><span class='name'>sour cream</span><span class='other'>,</span><span class='comment'>for topping</span>", 
+        "unit": "cup"
+    }
+]

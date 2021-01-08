@@ -1,0 +1,81 @@
+[
+    {
+        "input": "2 tablespoons olive oil", 
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='name'>olive oil</span>", 
+        "name": "olive oil", 
+        "unit": "tablespoon", 
+        "qty": "2"
+    }, 
+    {
+        "comment": "minced", 
+        "name": "onion", 
+        "qty": "1", 
+        "other": ",", 
+        "input": "1 onion, minced", 
+        "display": "<span class='qty'>1</span><span class='name'>onion</span><span class='other'>,</span><span class='comment'>minced</span>"
+    }, 
+    {
+        "comment": "minced", 
+        "name": "garlic", 
+        "qty": "8", 
+        "other": ",", 
+        "input": "8 cloves garlic, minced", 
+        "display": "<span class='qty'>8</span><span class='unit'>cloves</span><span class='name'>garlic</span><span class='other'>,</span><span class='comment'>minced</span>", 
+        "unit": "clove"
+    }, 
+    {
+        "comment": "4\" long) s Spanish chorizo links, sliced", 
+        "name": "link", 
+        "qty": "2", 
+        "other": "(", 
+        "input": "2 link (4\" long) s Spanish chorizo links, sliced", 
+        "display": "<span class='qty'>2</span><span class='name'>link</span><span class='other'>(</span><span class='comment'>4\" long ) s Spanish chorizo links , sliced</span>"
+    }, 
+    {
+        "comment": "diced, or more to taste", 
+        "name": "smoked ham", 
+        "qty": "2", 
+        "other": "thick ,", 
+        "input": "2 thick slices smoked ham, diced, or more to taste", 
+        "display": "<span class='qty'>2</span><span class='other'>thick</span><span class='unit'>slices</span><span class='name'>smoked ham</span><span class='other'>,</span><span class='comment'>diced , or more to taste</span>", 
+        "unit": "slice"
+    }, 
+    {
+        "comment": "peeled and diced", 
+        "name": "eaches potatoes", 
+        "qty": "3", 
+        "other": ",", 
+        "input": "3 eaches potatoes, peeled and diced", 
+        "display": "<span class='qty'>3</span><span class='name'>eaches potatoes</span><span class='other'>,</span><span class='comment'>peeled and diced</span>"
+    }, 
+    {
+        "comment": "medium (blank) s, peeled and diced", 
+        "input": "2 medium (blank) s turnips, peeled and diced", 
+        "display": "<span class='qty'>2</span><span class='comment'>medium ( blank ) s</span><span class='name'>turnips</span><span class='comment'>, peeled and diced</span>", 
+        "name": "turnips", 
+        "qty": "2"
+    }, 
+    {
+        "input": "8 cups chicken stock", 
+        "display": "<span class='qty'>8</span><span class='unit'>cups</span><span class='name'>chicken stock</span>", 
+        "name": "chicken stock", 
+        "unit": "cup", 
+        "qty": "8"
+    }, 
+    {
+        "comment": "15 ounce) can", 
+        "name": "white cannellini beans", 
+        "qty": "1", 
+        "other": "(", 
+        "input": "1 (15 ounce) can white cannellini beans", 
+        "display": "<span class='qty'>1</span><span class='other'>(</span><span class='comment'>15 ounce ) can</span><span class='name'>white cannellini beans</span>"
+    }, 
+    {
+        "comment": "chopped", 
+        "name": "turnip greens", 
+        "qty": "3", 
+        "input": "3 cups chopped turnip greens", 
+        "display": "<span class='qty'>3</span><span class='unit'>cups</span><span class='comment'>chopped</span><span class='name'>turnip greens</span>", 
+        "unit": "cup"
+    }
+]

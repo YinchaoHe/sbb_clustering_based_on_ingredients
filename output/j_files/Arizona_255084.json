@@ -1,0 +1,80 @@
+[
+    {
+        "input": "2 teaspoons vegetable oil", 
+        "display": "<span class='qty'>2</span><span class='unit'>teaspoons</span><span class='name'>vegetable oil</span>", 
+        "name": "vegetable oil", 
+        "unit": "teaspoon", 
+        "qty": "2"
+    }, 
+    {
+        "comment": "cut into small rectangles", 
+        "name": "eaches potatoes", 
+        "qty": "2", 
+        "other": ",", 
+        "input": "2 eaches potatoes, cut into small rectangles", 
+        "display": "<span class='qty'>2</span><span class='name'>eaches potatoes</span><span class='other'>,</span><span class='comment'>cut into small rectangles</span>"
+    }, 
+    {
+        "comment": "shredded", 
+        "name": "carrots", 
+        "qty": "1", 
+        "input": "1 cup shredded carrots", 
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='comment'>shredded</span><span class='name'>carrots</span>", 
+        "unit": "cup"
+    }, 
+    {
+        "comment": "15 ounce) jars nopalitos cactus, drained", 
+        "name": "1\u20442", 
+        "qty": "2", 
+        "other": "(", 
+        "input": "2 1\u20442 (15 ounce) jars nopalitos cactus, drained", 
+        "display": "<span class='qty'>2</span><span class='name'>1\u20442</span><span class='other'>(</span><span class='comment'>15 ounce ) jars nopalitos cactus , drained</span>"
+    }, 
+    {
+        "input": "1 tablespoon chili powder", 
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='name'>chili powder</span>", 
+        "name": "chili powder", 
+        "unit": "tablespoon", 
+        "qty": "1"
+    }, 
+    {
+        "comment": "minced", 
+        "name": "garlic", 
+        "qty": "2", 
+        "other": ",", 
+        "input": "2 cloves garlic, minced", 
+        "display": "<span class='qty'>2</span><span class='unit'>cloves</span><span class='name'>garlic</span><span class='other'>,</span><span class='comment'>minced</span>", 
+        "unit": "clove"
+    }, 
+    {
+        "input": "2 teaspoons fenugreek seeds", 
+        "display": "<span class='qty'>2</span><span class='unit'>teaspoons</span><span class='name'>fenugreek seeds</span>", 
+        "name": "fenugreek seeds", 
+        "unit": "teaspoon", 
+        "qty": "2"
+    }, 
+    {
+        "comment": "ground", 
+        "name": "coriander", 
+        "qty": "2", 
+        "input": "2 teaspoons ground coriander", 
+        "display": "<span class='qty'>2</span><span class='unit'>teaspoons</span><span class='comment'>ground</span><span class='name'>coriander</span>", 
+        "unit": "teaspoon"
+    }, 
+    {
+        "comment": "ground", 
+        "name": "cumin", 
+        "qty": "1\u20442", 
+        "input": "1\u20442 teaspoon ground cumin", 
+        "display": "<span class='qty'>1\u20442</span><span class='unit'>teaspoon</span><span class='comment'>ground</span><span class='name'>cumin</span>", 
+        "unit": "teaspoon"
+    }, 
+    {
+        "comment": "15 ounce) can", 
+        "name": "pinto beans", 
+        "qty": "1", 
+        "other": "(", 
+        "input": "1 (15 ounce) can pinto beans", 
+        "display": "<span class='qty'>1</span><span class='other'>(</span><span class='comment'>15 ounce ) can</span><span class='name'>pinto beans</span>"
+    }
+]

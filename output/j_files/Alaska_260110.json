@@ -1,0 +1,118 @@
+[
+    {
+        "input": "1 pound halibut fillets", 
+        "display": "<span class='qty'>1</span><span class='unit'>pound</span><span class='name'>halibut fillets</span>", 
+        "name": "halibut fillets", 
+        "unit": "pound", 
+        "qty": "1"
+    }, 
+    {
+        "comment": "ground to taste", 
+        "input": "salt and ground black pepper to taste", 
+        "name": "salt and black pepper", 
+        "display": "<span class='name'>salt and</span><span class='comment'>ground</span><span class='name'>black pepper</span><span class='comment'>to taste</span>"
+    }, 
+    {
+        "input": "1 tablespoon butter", 
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='name'>butter</span>", 
+        "name": "butter", 
+        "unit": "tablespoon", 
+        "qty": "1"
+    }, 
+    {
+        "comment": "chopped", 
+        "name": "onion", 
+        "qty": "1", 
+        "other": ",", 
+        "input": "1 onion, chopped", 
+        "display": "<span class='qty'>1</span><span class='name'>onion</span><span class='other'>,</span><span class='comment'>chopped</span>"
+    }, 
+    {
+        "input": "1\u20442 cup dry white wine", 
+        "display": "<span class='qty'>1\u20442</span><span class='unit'>cup</span><span class='name'>dry white wine</span>", 
+        "name": "dry white wine", 
+        "unit": "cup", 
+        "qty": "1\u20442"
+    }, 
+    {
+        "input": "1\u20442 cup sour cream", 
+        "display": "<span class='qty'>1\u20442</span><span class='unit'>cup</span><span class='name'>sour cream</span>", 
+        "name": "sour cream", 
+        "unit": "cup", 
+        "qty": "1\u20442"
+    }, 
+    {
+        "input": "1\u20442 cup mayonnaise", 
+        "display": "<span class='qty'>1\u20442</span><span class='unit'>cup</span><span class='name'>mayonnaise</span>", 
+        "name": "mayonnaise", 
+        "unit": "cup", 
+        "qty": "1\u20442"
+    }, 
+    {
+        "comment": "diced", 
+        "name": "garlic", 
+        "qty": "2", 
+        "other": ",", 
+        "input": "2 cloves garlic, diced", 
+        "display": "<span class='qty'>2</span><span class='unit'>cloves</span><span class='name'>garlic</span><span class='other'>,</span><span class='comment'>diced</span>", 
+        "unit": "clove"
+    }, 
+    {
+        "comment": "such as Old Bay\u00ae)", 
+        "name": "seafood seasoning", 
+        "qty": "1", 
+        "other": "1\u20442 (", 
+        "input": "1 1\u20442 teaspoons seafood seasoning (such as Old Bay\u00ae)", 
+        "display": "<span class='qty'>1</span><span class='other'>1\u20442</span><span class='unit'>teaspoons</span><span class='name'>seafood seasoning</span><span class='other'>(</span><span class='comment'>such as Old Bay\u00ae )</span>", 
+        "unit": "teaspoon"
+    }, 
+    {
+        "comment": "ground, or to taste", 
+        "name": "white pepper", 
+        "qty": "1\u20444", 
+        "input": "1\u20444 teaspoon ground white pepper, or to taste", 
+        "display": "<span class='qty'>1\u20444</span><span class='unit'>teaspoon</span><span class='comment'>ground</span><span class='name'>white pepper</span><span class='comment'>, or to taste</span>", 
+        "unit": "teaspoon"
+    }, 
+    {
+        "comment": "or to taste", 
+        "name": "paprika", 
+        "qty": "1\u20444", 
+        "other": ",", 
+        "input": "1\u20444 teaspoon paprika, or to taste", 
+        "display": "<span class='qty'>1\u20444</span><span class='unit'>teaspoon</span><span class='name'>paprika</span><span class='other'>,</span><span class='comment'>or to taste</span>", 
+        "unit": "teaspoon"
+    }, 
+    {
+        "comment": "fresh, chopped, or more to taste", 
+        "name": "dill", 
+        "qty": "1", 
+        "input": "1 sprig fresh dill, chopped, or more to taste", 
+        "display": "<span class='qty'>1</span><span class='unit'>sprig</span><span class='comment'>fresh</span><span class='name'>dill</span><span class='comment'>, chopped , or more to taste</span>", 
+        "unit": "sprig"
+    }, 
+    {
+        "comment": "green, chopped", 
+        "name": "onions", 
+        "qty": "2", 
+        "input": "2 bunches green onions, chopped", 
+        "display": "<span class='qty'>2</span><span class='unit'>bunches</span><span class='comment'>green</span><span class='name'>onions</span><span class='comment'>, chopped</span>", 
+        "unit": "bunch"
+    }, 
+    {
+        "comment": ", or to taste", 
+        "name": "panko bread crumbs", 
+        "qty": "1\u20444", 
+        "input": "1\u20444 cup panko bread crumbs, or to taste", 
+        "display": "<span class='qty'>1\u20444</span><span class='unit'>cup</span><span class='name'>panko bread crumbs</span><span class='comment'>, or to taste</span>", 
+        "unit": "cup"
+    }, 
+    {
+        "comment": "drained, or to taste", 
+        "name": "capers", 
+        "qty": "2", 
+        "input": "2 tablespoons drained capers, or to taste", 
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='comment'>drained</span><span class='name'>capers</span><span class='comment'>, or to taste</span>", 
+        "unit": "tablespoon"
+    }
+]

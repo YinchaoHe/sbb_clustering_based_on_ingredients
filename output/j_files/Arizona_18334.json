@@ -1,0 +1,90 @@
+[
+    {
+        "comment": "buttery round, crumbled", 
+        "name": "crackers", 
+        "qty": "1", 
+        "other": "1\u20442", 
+        "input": "1 1\u20442 cups buttery round crackers, crumbled", 
+        "display": "<span class='qty'>1</span><span class='other'>1\u20442</span><span class='unit'>cups</span><span class='comment'>buttery round</span><span class='name'>crackers</span><span class='comment'>, crumbled</span>", 
+        "unit": "cup"
+    }, 
+    {
+        "comment": "softened", 
+        "name": "butter", 
+        "qty": "6", 
+        "other": ",", 
+        "input": "6 tablespoons butter, softened", 
+        "display": "<span class='qty'>6</span><span class='unit'>tablespoons</span><span class='name'>butter</span><span class='other'>,</span><span class='comment'>softened</span>", 
+        "unit": "tablespoon"
+    }, 
+    {
+        "comment": "thinly sliced sweet", 
+        "name": "onions", 
+        "qty": "2", 
+        "input": "2 cups thinly sliced sweet onions", 
+        "display": "<span class='qty'>2</span><span class='unit'>cups</span><span class='comment'>thinly sliced sweet</span><span class='name'>onions</span>", 
+        "unit": "cup"
+    }, 
+    {
+        "comment": "minced", 
+        "name": "garlic", 
+        "qty": "2", 
+        "other": ",", 
+        "input": "2 cloves garlic, minced", 
+        "display": "<span class='qty'>2</span><span class='unit'>cloves</span><span class='name'>garlic</span><span class='other'>,</span><span class='comment'>minced</span>", 
+        "unit": "clove"
+    }, 
+    {
+        "comment": "minced fresh", 
+        "name": "chives", 
+        "qty": "1", 
+        "input": "1 tablespoon minced fresh chives", 
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='comment'>minced fresh</span><span class='name'>chives</span>", 
+        "unit": "tablespoon"
+    }, 
+    {
+        "comment": "whole", 
+        "name": "milk", 
+        "other": "3\u20444", 
+        "input": "3\u20444 cup whole milk", 
+        "display": "<span class='other'>3\u20444</span><span class='unit'>cup</span><span class='comment'>whole</span><span class='name'>milk</span>", 
+        "unit": "cup"
+    }, 
+    {
+        "comment": "large", 
+        "input": "2 large eggs eggs", 
+        "display": "<span class='qty'>2</span><span class='comment'>large</span><span class='name'>eggs eggs</span>", 
+        "name": "eggs eggs", 
+        "qty": "2"
+    }, 
+    {
+        "input": "1\u20442 teaspoon salt", 
+        "display": "<span class='qty'>1\u20442</span><span class='unit'>teaspoon</span><span class='name'>salt</span>", 
+        "name": "salt", 
+        "unit": "teaspoon", 
+        "qty": "1\u20442"
+    }, 
+    {
+        "comment": "shredded", 
+        "name": "Cheddar cheese", 
+        "other": "3\u20444", 
+        "input": "3\u20444 cup shredded Cheddar cheese", 
+        "display": "<span class='other'>3\u20444</span><span class='unit'>cup</span><span class='comment'>shredded</span><span class='name'>Cheddar cheese</span>", 
+        "unit": "cup"
+    }, 
+    {
+        "input": "1 pinch paprika", 
+        "display": "<span class='qty'>1</span><span class='unit'>pinch</span><span class='name'>paprika</span>", 
+        "name": "paprika", 
+        "unit": "pinch", 
+        "qty": "1"
+    }, 
+    {
+        "comment": "chopped fresh", 
+        "name": "parsley", 
+        "qty": "1", 
+        "input": "1 tablespoon chopped fresh parsley", 
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='comment'>chopped fresh</span><span class='name'>parsley</span>", 
+        "unit": "tablespoon"
+    }
+]

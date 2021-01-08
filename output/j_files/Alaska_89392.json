@@ -1,0 +1,58 @@
+[
+    {
+        "name": "mayonnaise", 
+        "qty": "1", 
+        "other": "1\u20442", 
+        "input": "1 1\u20442 cups mayonnaise", 
+        "display": "<span class='qty'>1</span><span class='other'>1\u20442</span><span class='unit'>cups</span><span class='name'>mayonnaise</span>", 
+        "unit": "cup"
+    }, 
+    {
+        "comment": "prepared", 
+        "name": "mustard", 
+        "qty": "1\u20442", 
+        "input": "1\u20442 cup prepared mustard", 
+        "display": "<span class='qty'>1\u20442</span><span class='unit'>cup</span><span class='comment'>prepared</span><span class='name'>mustard</span>", 
+        "unit": "cup"
+    }, 
+    {
+        "comment": "chopped fresh", 
+        "name": "thyme", 
+        "qty": "1", 
+        "input": "1 teaspoon chopped fresh thyme", 
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='comment'>chopped fresh</span><span class='name'>thyme</span>", 
+        "unit": "teaspoon"
+    }, 
+    {
+        "comment": "dried", 
+        "name": "oregano", 
+        "qty": "1", 
+        "input": "1 teaspoon dried oregano", 
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='comment'>dried</span><span class='name'>oregano</span>", 
+        "unit": "teaspoon"
+    }, 
+    {
+        "comment": "chopped fresh", 
+        "name": "basil leaves", 
+        "qty": "1", 
+        "input": "1 teaspoon chopped fresh basil leaves", 
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='comment'>chopped fresh</span><span class='name'>basil leaves</span>", 
+        "unit": "teaspoon"
+    }, 
+    {
+        "name": "salmon fillets", 
+        "qty": "1", 
+        "other": "1\u20442", 
+        "input": "1 1\u20442 pounds salmon fillets", 
+        "display": "<span class='qty'>1</span><span class='other'>1\u20442</span><span class='unit'>pounds</span><span class='name'>salmon fillets</span>", 
+        "unit": "pound"
+    }, 
+    {
+        "comment": "dried, or to taste", 
+        "name": "dill", 
+        "qty": "2", 
+        "input": "2 teaspoons dried dill, or to taste", 
+        "display": "<span class='qty'>2</span><span class='unit'>teaspoons</span><span class='comment'>dried</span><span class='name'>dill</span><span class='comment'>, or to taste</span>", 
+        "unit": "teaspoon"
+    }
+]

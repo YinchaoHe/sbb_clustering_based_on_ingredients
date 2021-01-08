@@ -1,0 +1,95 @@
+[
+    {
+        "comment": "dried", 
+        "name": "brown rice pasta", 
+        "qty": "16", 
+        "input": "16 ounces dried brown rice pasta", 
+        "display": "<span class='qty'>16</span><span class='unit'>ounces</span><span class='comment'>dried</span><span class='name'>brown rice pasta</span>", 
+        "unit": "ounce"
+    }, 
+    {
+        "comment": "10 ounce) package frozen", 
+        "name": "peas", 
+        "qty": "1", 
+        "other": "(", 
+        "input": "1 (10 ounce) package frozen peas", 
+        "display": "<span class='qty'>1</span><span class='other'>(</span><span class='comment'>10 ounce ) package frozen</span><span class='name'>peas</span>"
+    }, 
+    {
+        "comment": "packed fresh, chopped", 
+        "name": "spinach", 
+        "qty": "2", 
+        "input": "2 cups packed fresh spinach, chopped", 
+        "display": "<span class='qty'>2</span><span class='unit'>cups</span><span class='comment'>packed fresh</span><span class='name'>spinach</span><span class='comment'>, chopped</span>", 
+        "unit": "cup"
+    }, 
+    {
+        "comment": "14.75 ounce) can, drained and flaked", 
+        "name": "salmon", 
+        "qty": "1", 
+        "other": "(", 
+        "input": "1 (14.75 ounce) can salmon, drained and flaked", 
+        "display": "<span class='qty'>1</span><span class='other'>(</span><span class='comment'>14.75 ounce ) can</span><span class='name'>salmon</span><span class='comment'>, drained and flaked</span>"
+    }, 
+    {
+        "comment": "(such as Annie's Lemon and Chive Dressing\u00ae)", 
+        "name": "bottle Italian-style salad dressing", 
+        "qty": "1", 
+        "other": "(8 ounce)", 
+        "input": "1 (8 ounce) bottle Italian-style salad dressing (such as Annie's Lemon and Chive Dressing\u00ae)", 
+        "display": "<span class='qty'>1</span><span class='other'>( 8 ounce )</span><span class='name'>bottle Italian-style salad dressing</span><span class='comment'>( such as Annie's Lemon and Chive Dressing\u00ae )</span>"
+    }, 
+    {
+        "comment": "finely chopped", 
+        "name": "carrots", 
+        "qty": "1\u20442", 
+        "input": "1\u20442 cup finely chopped carrots", 
+        "display": "<span class='qty'>1\u20442</span><span class='unit'>cup</span><span class='comment'>finely chopped</span><span class='name'>carrots</span>", 
+        "unit": "cup"
+    }, 
+    {
+        "input": "3\u20444 cup red cherry tomatoes", 
+        "display": "<span class='qty'>3\u20444</span><span class='unit'>cup</span><span class='name'>red cherry tomatoes</span>", 
+        "name": "red cherry tomatoes", 
+        "unit": "cup", 
+        "qty": "3\u20444"
+    }, 
+    {
+        "input": "3\u20444 cup yellow cherry tomatoes", 
+        "display": "<span class='qty'>3\u20444</span><span class='unit'>cup</span><span class='name'>yellow cherry tomatoes</span>", 
+        "name": "yellow cherry tomatoes", 
+        "unit": "cup", 
+        "qty": "3\u20444"
+    }, 
+    {
+        "comment": "chopped fresh", 
+        "name": "cilantro", 
+        "qty": "1\u20444", 
+        "input": "1\u20444 cup chopped fresh cilantro", 
+        "display": "<span class='qty'>1\u20444</span><span class='unit'>cup</span><span class='comment'>chopped fresh</span><span class='name'>cilantro</span>", 
+        "unit": "cup"
+    }, 
+    {
+        "comment": "ripe peeled and sliced", 
+        "name": "avocado", 
+        "qty": "1", 
+        "other": ",", 
+        "input": "1 ripe avocado, peeled and sliced", 
+        "display": "<span class='qty'>1</span><span class='comment'>ripe</span><span class='name'>avocado</span><span class='other'>,</span><span class='comment'>peeled and sliced</span>"
+    }, 
+    {
+        "input": "1 tablespoon lemon juice", 
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='name'>lemon juice</span>", 
+        "name": "lemon juice", 
+        "unit": "tablespoon", 
+        "qty": "1"
+    }, 
+    {
+        "comment": "finely chopped", 
+        "name": "jalapeno pepper", 
+        "qty": "1\u20442", 
+        "other": ",", 
+        "input": "1\u20442 jalapeno pepper, finely chopped", 
+        "display": "<span class='qty'>1\u20442</span><span class='name'>jalapeno pepper</span><span class='other'>,</span><span class='comment'>finely chopped</span>"
+    }
+]

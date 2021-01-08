@@ -1,0 +1,44 @@
+[
+    {
+        "comment": "whole, cut into pieces", 
+        "name": "chicken", 
+        "qty": "1", 
+        "other": "(3 pound)", 
+        "input": "1 (3 pound) whole chicken, cut into pieces", 
+        "display": "<span class='qty'>1</span><span class='other'>( 3 pound )</span><span class='comment'>whole</span><span class='name'>chicken</span><span class='comment'>, cut into pieces</span>"
+    }, 
+    {
+        "input": "1 cup all-purpose flour", 
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='name'>all-purpose flour</span>", 
+        "name": "all-purpose flour", 
+        "unit": "cup", 
+        "qty": "1"
+    }, 
+    {
+        "comment": "to taste", 
+        "input": "salt to taste", 
+        "name": "salt", 
+        "display": "<span class='name'>salt</span><span class='comment'>to taste</span>"
+    }, 
+    {
+        "comment": "ground to taste", 
+        "input": "ground black pepper to taste", 
+        "name": "black pepper", 
+        "display": "<span class='comment'>ground</span><span class='name'>black pepper</span><span class='comment'>to taste</span>"
+    }, 
+    {
+        "input": "1 teaspoon paprika", 
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='name'>paprika</span>", 
+        "name": "paprika", 
+        "unit": "teaspoon", 
+        "qty": "1"
+    }, 
+    {
+        "comment": "for frying", 
+        "name": "vegetable oil", 
+        "qty": "1", 
+        "input": "1 quart vegetable oil for frying", 
+        "display": "<span class='qty'>1</span><span class='unit'>quart</span><span class='name'>vegetable oil</span><span class='comment'>for frying</span>", 
+        "unit": "quart"
+    }
+]

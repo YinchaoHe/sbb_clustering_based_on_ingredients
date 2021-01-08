@@ -1,0 +1,86 @@
+[
+    {
+        "comment": "ground chuck", 
+        "name": "beef", 
+        "qty": "2", 
+        "input": "2 pounds ground beef chuck", 
+        "display": "<span class='qty'>2</span><span class='unit'>pounds</span><span class='comment'>ground</span><span class='name'>beef</span><span class='comment'>chuck</span>", 
+        "unit": "pound"
+    }, 
+    {
+        "comment": "large, chopped", 
+        "input": "2 large white onions, chopped", 
+        "display": "<span class='qty'>2</span><span class='comment'>large</span><span class='name'>white onions</span><span class='comment'>, chopped</span>", 
+        "name": "white onions", 
+        "qty": "2"
+    }, 
+    {
+        "comment": "(14.5 ounce) cans diced with juice", 
+        "input": "2 (14.5 ounce) cans diced tomatoes with juice", 
+        "display": "<span class='qty'>2</span><span class='comment'>( 14.5 ounce ) cans diced</span><span class='name'>tomatoes</span><span class='comment'>with juice</span>", 
+        "name": "tomatoes", 
+        "qty": "2"
+    }, 
+    {
+        "comment": "15 ounce) cans", 
+        "name": "tomato sauce", 
+        "qty": "2", 
+        "other": "(", 
+        "input": "2 (15 ounce) cans tomato sauce", 
+        "display": "<span class='qty'>2</span><span class='other'>(</span><span class='comment'>15 ounce ) cans</span><span class='name'>tomato sauce</span>"
+    }, 
+    {
+        "comment": "12 fluid ounce) can", 
+        "name": "beer", 
+        "qty": "1", 
+        "other": "(", 
+        "input": "1 (12 fluid ounce) can beer", 
+        "display": "<span class='qty'>1</span><span class='other'>(</span><span class='comment'>12 fluid ounce ) can</span><span class='name'>beer</span>"
+    }, 
+    {
+        "comment": "15 ounce) cans", 
+        "name": "spicy chili beans", 
+        "qty": "2", 
+        "other": "(", 
+        "input": "2 (15 ounce) cans spicy chili beans", 
+        "display": "<span class='qty'>2</span><span class='other'>(</span><span class='comment'>15 ounce ) cans</span><span class='name'>spicy chili beans</span>"
+    }, 
+    {
+        "input": "1\u20444 cup Worcestershire sauce", 
+        "display": "<span class='qty'>1\u20444</span><span class='unit'>cup</span><span class='name'>Worcestershire sauce</span>", 
+        "name": "Worcestershire sauce", 
+        "unit": "cup", 
+        "qty": "1\u20444"
+    }, 
+    {
+        "comment": "(e.g. TabascoTM), or to taste", 
+        "name": "hot pepper sauce", 
+        "qty": "3", 
+        "input": "3 tablespoons hot pepper sauce (e.g. TabascoTM), or to taste", 
+        "display": "<span class='qty'>3</span><span class='unit'>tablespoons</span><span class='name'>hot pepper sauce</span><span class='comment'>( e.g. TabascoTM ) , or to taste</span>", 
+        "unit": "tablespoon"
+    }, 
+    {
+        "input": "1\u20443 cup chili powder", 
+        "display": "<span class='qty'>1\u20443</span><span class='unit'>cup</span><span class='name'>chili powder</span>", 
+        "name": "chili powder", 
+        "unit": "cup", 
+        "qty": "1\u20443"
+    }, 
+    {
+        "comment": "fresh, seeded and chopped", 
+        "input": "4 peppers fresh jalapeno peppers, seeded and chopped", 
+        "display": "<span class='qty'>4</span><span class='name'>peppers</span><span class='comment'>fresh</span><span class='name'>jalapeno peppers</span><span class='comment'>, seeded and chopped</span>", 
+        "name": "peppers jalapeno peppers", 
+        "qty": "4"
+    }, 
+    {
+        "comment": "or to taste", 
+        "name": "red pepper flakes", 
+        "qty": "3", 
+        "other": ",", 
+        "input": "3 tablespoons red pepper flakes, or to taste", 
+        "display": "<span class='qty'>3</span><span class='unit'>tablespoons</span><span class='name'>red pepper flakes</span><span class='other'>,</span><span class='comment'>or to taste</span>", 
+        "unit": "tablespoon"
+    }
+]

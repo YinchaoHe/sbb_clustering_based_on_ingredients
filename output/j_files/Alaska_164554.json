@@ -1,0 +1,100 @@
+[
+    {
+        "input": "1 tablespoon unsalted butter", 
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='name'>unsalted butter</span>", 
+        "name": "unsalted butter", 
+        "unit": "tablespoon", 
+        "qty": "1"
+    }, 
+    {
+        "comment": "large, finely diced", 
+        "input": "1 large onion, finely diced", 
+        "display": "<span class='qty'>1</span><span class='comment'>large</span><span class='name'>onion</span><span class='comment'>, finely diced</span>", 
+        "name": "onion", 
+        "qty": "1"
+    }, 
+    {
+        "comment": "large, peeled and cubed", 
+        "input": "2 large potatoes, peeled and cubed", 
+        "display": "<span class='qty'>2</span><span class='comment'>large</span><span class='name'>potatoes</span><span class='comment'>, peeled and cubed</span>", 
+        "name": "potatoes", 
+        "qty": "2"
+    }, 
+    {
+        "comment": "minced", 
+        "name": "garlic", 
+        "qty": "2", 
+        "other": ",", 
+        "input": "2 cloves garlic, minced", 
+        "display": "<span class='qty'>2</span><span class='unit'>cloves</span><span class='name'>garlic</span><span class='other'>,</span><span class='comment'>minced</span>", 
+        "unit": "clove"
+    }, 
+    {
+        "input": "6 cups chicken stock", 
+        "display": "<span class='qty'>6</span><span class='unit'>cups</span><span class='name'>chicken stock</span>", 
+        "name": "chicken stock", 
+        "unit": "cup", 
+        "qty": "6"
+    }, 
+    {
+        "comment": "(8 ounce) can stewed, diced", 
+        "input": "1 (8 ounce) can stewed tomatoes, diced", 
+        "display": "<span class='qty'>1</span><span class='comment'>( 8 ounce ) can stewed</span><span class='name'>tomatoes</span><span class='comment'>, diced</span>", 
+        "name": "tomatoes", 
+        "qty": "1"
+    }, 
+    {
+        "comment": "large, shredded", 
+        "input": "2 large carrots, shredded", 
+        "display": "<span class='qty'>2</span><span class='comment'>large</span><span class='name'>carrots</span><span class='comment'>, shredded</span>", 
+        "name": "carrots", 
+        "qty": "2"
+    }, 
+    {
+        "name": "milk", 
+        "qty": "1", 
+        "other": "1\u20442", 
+        "input": "1 1\u20442 cups milk", 
+        "display": "<span class='qty'>1</span><span class='other'>1\u20442</span><span class='unit'>cups</span><span class='name'>milk</span>", 
+        "unit": "cup"
+    }, 
+    {
+        "input": "1\u20442 cup heavy cream", 
+        "display": "<span class='qty'>1\u20442</span><span class='unit'>cup</span><span class='name'>heavy cream</span>", 
+        "name": "heavy cream", 
+        "unit": "cup", 
+        "qty": "1\u20442"
+    }, 
+    {
+        "comment": "to taste", 
+        "input": "salt and pepper to taste", 
+        "name": "salt and pepper", 
+        "display": "<span class='name'>salt and pepper</span><span class='comment'>to taste</span>"
+    }, 
+    {
+        "comment": "cut into 1-inch cubes", 
+        "name": "halibut", 
+        "qty": "2", 
+        "other": ",", 
+        "input": "2 pounds halibut, cut into 1-inch cubes", 
+        "display": "<span class='qty'>2</span><span class='unit'>pounds</span><span class='name'>halibut</span><span class='other'>,</span><span class='comment'>cut into 1-inch cubes</span>", 
+        "unit": "pound"
+    }, 
+    {
+        "comment": "shredded", 
+        "name": "Cheddar cheese", 
+        "other": "1\u20442", 
+        "input": "1\u20442 cup shredded Cheddar cheese", 
+        "display": "<span class='other'>1\u20442</span><span class='unit'>cup</span><span class='comment'>shredded</span><span class='name'>Cheddar cheese</span>", 
+        "unit": "cup"
+    }, 
+    {
+        "comment": "or to taste", 
+        "name": "red pepper flakes", 
+        "qty": "1", 
+        "other": ",", 
+        "input": "1 pinch red pepper flakes, or to taste", 
+        "display": "<span class='qty'>1</span><span class='unit'>pinch</span><span class='name'>red pepper flakes</span><span class='other'>,</span><span class='comment'>or to taste</span>", 
+        "unit": "pinch"
+    }
+]

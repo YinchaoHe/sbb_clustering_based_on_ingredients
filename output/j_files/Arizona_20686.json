@@ -1,0 +1,36 @@
+[
+    {
+        "input": "5 fluid ounces tequila", 
+        "display": "<span class='qty'>5</span><span class='name'>fluid ounces tequila</span>", 
+        "name": "fluid ounces tequila", 
+        "qty": "5"
+    }, 
+    {
+        "name": "triple sec", 
+        "qty": "3", 
+        "other": "fluid", 
+        "input": "3 fluid ounces triple sec", 
+        "display": "<span class='qty'>3</span><span class='other'>fluid</span><span class='unit'>ounces</span><span class='name'>triple sec</span>", 
+        "unit": "ounce"
+    }, 
+    {
+        "comment": "(6 ounce) cans frozen", 
+        "input": "2 (6 ounce) cans frozen limeade concentrate", 
+        "display": "<span class='qty'>2</span><span class='comment'>( 6 ounce ) cans frozen</span><span class='name'>limeade concentrate</span>", 
+        "name": "limeade concentrate", 
+        "qty": "2"
+    }, 
+    {
+        "input": "4 cups ice cubes", 
+        "display": "<span class='qty'>4</span><span class='unit'>cups</span><span class='name'>ice cubes</span>", 
+        "name": "ice cubes", 
+        "unit": "cup", 
+        "qty": "4"
+    }, 
+    {
+        "comment": "coarse", 
+        "input": "coarse salt", 
+        "name": "salt", 
+        "display": "<span class='comment'>coarse</span><span class='name'>salt</span>"
+    }
+]

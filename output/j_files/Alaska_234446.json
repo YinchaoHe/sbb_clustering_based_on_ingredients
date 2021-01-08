@@ -1,0 +1,47 @@
+[
+    {
+        "input": "4 cups salmonberries, divided", 
+        "other": "salmonberries, divided", 
+        "display": "<span class='qty'>4</span><span class='unit'>cups</span><span class='other'>salmonberries , divided</span>", 
+        "unit": "cup", 
+        "qty": "4"
+    }, 
+    {
+        "comment": "or as needed", 
+        "name": "water", 
+        "qty": "3\u20444", 
+        "other": ",", 
+        "input": "3\u20444 cup water, or as needed", 
+        "display": "<span class='qty'>3\u20444</span><span class='unit'>cup</span><span class='name'>water</span><span class='other'>,</span><span class='comment'>or as needed</span>", 
+        "unit": "cup"
+    }, 
+    {
+        "comment": "16.5 ounce) package", 
+        "name": "white cake mix", 
+        "qty": "1", 
+        "other": "(", 
+        "input": "1 (16.5 ounce) package white cake mix", 
+        "display": "<span class='qty'>1</span><span class='other'>(</span><span class='comment'>16.5 ounce ) package</span><span class='name'>white cake mix</span>"
+    }, 
+    {
+        "comment": "large", 
+        "input": "3 large eggs eggs", 
+        "display": "<span class='qty'>3</span><span class='comment'>large</span><span class='name'>eggs eggs</span>", 
+        "name": "eggs eggs", 
+        "qty": "3"
+    }, 
+    {
+        "input": "2 tablespoons vegetable oil", 
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='name'>vegetable oil</span>", 
+        "name": "vegetable oil", 
+        "unit": "tablespoon", 
+        "qty": "2"
+    }, 
+    {
+        "input": "1\u20442 cup white sugar", 
+        "display": "<span class='qty'>1\u20442</span><span class='unit'>cup</span><span class='name'>white sugar</span>", 
+        "name": "white sugar", 
+        "unit": "cup", 
+        "qty": "1\u20442"
+    }
+]

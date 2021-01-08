@@ -1,0 +1,179 @@
+[
+    {
+        "comment": "3.5 ounce) links, casings removed", 
+        "name": "Italian sausage", 
+        "qty": "3", 
+        "other": "(", 
+        "input": "3 (3.5 ounce) links Italian sausage, casings removed", 
+        "display": "<span class='qty'>3</span><span class='other'>(</span><span class='comment'>3.5 ounce ) links</span><span class='name'>Italian sausage</span><span class='comment'>, casings removed</span>"
+    }, 
+    {
+        "comment": "large meaty bone or 4 smoked", 
+        "input": "1 large meaty ham bone or 4 smoked ham hocks", 
+        "display": "<span class='qty'>1</span><span class='comment'>large meaty</span><span class='name'>ham</span><span class='comment'>bone or 4 smoked</span><span class='name'>ham hocks</span>", 
+        "name": "ham ham hocks", 
+        "qty": "1"
+    }, 
+    {
+        "input": "16 ounces dry lima beans", 
+        "display": "<span class='qty'>16</span><span class='unit'>ounces</span><span class='name'>dry lima beans</span>", 
+        "name": "dry lima beans", 
+        "unit": "ounce", 
+        "qty": "16"
+    }, 
+    {
+        "comment": "16 ounce) package dried", 
+        "name": "navy beans", 
+        "qty": "1", 
+        "other": "(", 
+        "input": "1 (16 ounce) package dried navy beans", 
+        "display": "<span class='qty'>1</span><span class='other'>(</span><span class='comment'>16 ounce ) package dried</span><span class='name'>navy beans</span>"
+    }, 
+    {
+        "comment": "(14.5 ounce) cans stewed", 
+        "input": "2 (14.5 ounce) cans stewed tomatoes", 
+        "display": "<span class='qty'>2</span><span class='comment'>( 14.5 ounce ) cans stewed</span><span class='name'>tomatoes</span>", 
+        "name": "tomatoes", 
+        "qty": "2"
+    }, 
+    {
+        "comment": "(6 ounce) can", 
+        "input": "1 (6 ounce) can tomato paste", 
+        "display": "<span class='qty'>1</span><span class='comment'>( 6 ounce ) can</span><span class='name'>tomato paste</span>", 
+        "name": "tomato paste", 
+        "qty": "1"
+    }, 
+    {
+        "comment": "chopped", 
+        "name": "onion", 
+        "qty": "1", 
+        "other": ",", 
+        "input": "1 onion, chopped", 
+        "display": "<span class='qty'>1</span><span class='name'>onion</span><span class='other'>,</span><span class='comment'>chopped</span>"
+    }, 
+    {
+        "comment": "chopped", 
+        "name": "celery", 
+        "qty": "4", 
+        "other": ",", 
+        "input": "4 stalks celery, chopped", 
+        "display": "<span class='qty'>4</span><span class='unit'>stalks</span><span class='name'>celery</span><span class='other'>,</span><span class='comment'>chopped</span>", 
+        "unit": "stalk"
+    }, 
+    {
+        "input": "4 carrot, (7-1/2\") s carrots, sliced", 
+        "other": ", (7-1/2\")", 
+        "display": "<span class='qty'>4</span><span class='name'>carrot</span><span class='other'>, ( 7-1/2\" )</span><span class='name'>s carrots , sliced</span>", 
+        "name": "carrot s carrots, sliced", 
+        "qty": "4"
+    }, 
+    {
+        "comment": "minced", 
+        "name": "garlic", 
+        "qty": "4", 
+        "other": ",", 
+        "input": "4 cloves garlic, minced", 
+        "display": "<span class='qty'>4</span><span class='unit'>cloves</span><span class='name'>garlic</span><span class='other'>,</span><span class='comment'>minced</span>", 
+        "unit": "clove"
+    }, 
+    {
+        "comment": "chopped fresh", 
+        "name": "parsley", 
+        "qty": "1\u20444", 
+        "input": "1\u20444 cup chopped fresh parsley", 
+        "display": "<span class='qty'>1\u20444</span><span class='unit'>cup</span><span class='comment'>chopped fresh</span><span class='name'>parsley</span>", 
+        "unit": "cup"
+    }, 
+    {
+        "comment": "(blank) s", 
+        "name": "bay leaves", 
+        "qty": "3", 
+        "input": "3 leaf (blank) s bay leaves", 
+        "display": "<span class='qty'>3</span><span class='unit'>leaf</span><span class='comment'>( blank ) s</span><span class='name'>bay leaves</span>", 
+        "unit": "leaf"
+    }, 
+    {
+        "comment": "chopped fresh", 
+        "name": "chives", 
+        "qty": "1\u20444", 
+        "input": "1\u20444 cup chopped fresh chives", 
+        "display": "<span class='qty'>1\u20444</span><span class='unit'>cup</span><span class='comment'>chopped fresh</span><span class='name'>chives</span>", 
+        "unit": "cup"
+    }, 
+    {
+        "comment": "chopped fresh", 
+        "name": "basil", 
+        "qty": "2", 
+        "input": "2 tablespoons chopped fresh basil", 
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='comment'>chopped fresh</span><span class='name'>basil</span>", 
+        "unit": "tablespoon"
+    }, 
+    {
+        "comment": "medium 4-1/8\" long, chopped", 
+        "name": "s green onions", 
+        "qty": "6", 
+        "other": "()", 
+        "input": "6 medium (4-1/8\" long) s green onions, chopped", 
+        "display": "<span class='qty'>6</span><span class='comment'>medium</span><span class='other'>(</span><span class='comment'>4-1/8\" long</span><span class='other'>)</span><span class='name'>s green onions</span><span class='comment'>, chopped</span>"
+    }, 
+    {
+        "comment": "dried", 
+        "name": "thyme", 
+        "qty": "1", 
+        "input": "1 teaspoon dried thyme", 
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='comment'>dried</span><span class='name'>thyme</span>", 
+        "unit": "teaspoon"
+    }, 
+    {
+        "input": "1 teaspoon mustard powder", 
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='name'>mustard powder</span>", 
+        "name": "mustard powder", 
+        "unit": "teaspoon", 
+        "qty": "1"
+    }, 
+    {
+        "comment": "ground", 
+        "name": "cayenne pepper", 
+        "qty": "1", 
+        "input": "1 teaspoon ground cayenne pepper", 
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='comment'>ground</span><span class='name'>cayenne pepper</span>", 
+        "unit": "teaspoon"
+    }, 
+    {
+        "input": "1 teaspoon salt", 
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='name'>salt</span>", 
+        "name": "salt", 
+        "unit": "teaspoon", 
+        "qty": "1"
+    }, 
+    {
+        "comment": "ground", 
+        "name": "black pepper", 
+        "qty": "1", 
+        "input": "1 teaspoon ground black pepper", 
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='comment'>ground</span><span class='name'>black pepper</span>", 
+        "unit": "teaspoon"
+    }, 
+    {
+        "input": "2 tablespoons Worcestershire sauce", 
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='name'>Worcestershire sauce</span>", 
+        "name": "Worcestershire sauce", 
+        "unit": "tablespoon", 
+        "qty": "2"
+    }, 
+    {
+        "input": "3 tablespoons chicken bouillon powder", 
+        "display": "<span class='qty'>3</span><span class='unit'>tablespoons</span><span class='name'>chicken bouillon powder</span>", 
+        "name": "chicken bouillon powder", 
+        "unit": "tablespoon", 
+        "qty": "3"
+    }, 
+    {
+        "comment": "12 fluid ounce) can or bottle", 
+        "name": "beer", 
+        "qty": "1", 
+        "other": "(", 
+        "input": "1 (12 fluid ounce) can or bottle beer", 
+        "display": "<span class='qty'>1</span><span class='other'>(</span><span class='comment'>12 fluid ounce ) can or bottle</span><span class='name'>beer</span>"
+    }
+]

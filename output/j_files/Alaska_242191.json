@@ -1,0 +1,75 @@
+[
+    {
+        "input": "1 cup all-purpose flour", 
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='name'>all-purpose flour</span>", 
+        "name": "all-purpose flour", 
+        "unit": "cup", 
+        "qty": "1"
+    }, 
+    {
+        "input": "1 cup brown sugar", 
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='name'>brown sugar</span>", 
+        "name": "brown sugar", 
+        "unit": "cup", 
+        "qty": "1"
+    }, 
+    {
+        "input": "3\u20444 cup oats", 
+        "other": "3\u20444", 
+        "name": "oats", 
+        "unit": "cup", 
+        "display": "<span class='other'>3\u20444</span><span class='unit'>cup</span><span class='name'>oats</span>"
+    }, 
+    {
+        "comment": "melted", 
+        "name": "butter", 
+        "other": "1\u20442", 
+        "input": "1\u20442 cup melted butter", 
+        "display": "<span class='other'>1\u20442</span><span class='unit'>cup</span><span class='comment'>melted</span><span class='name'>butter</span>", 
+        "unit": "cup"
+    }, 
+    {
+        "comment": "ground", 
+        "name": "cinnamon", 
+        "qty": "1", 
+        "input": "1 teaspoon ground cinnamon", 
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='comment'>ground</span><span class='name'>cinnamon</span>", 
+        "unit": "teaspoon"
+    }, 
+    {
+        "comment": "diced", 
+        "name": "rhubarb", 
+        "qty": "4", 
+        "input": "4 cups diced rhubarb", 
+        "display": "<span class='qty'>4</span><span class='unit'>cups</span><span class='comment'>diced</span><span class='name'>rhubarb</span>", 
+        "unit": "cup"
+    }, 
+    {
+        "input": "1 cup white sugar", 
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='name'>white sugar</span>", 
+        "name": "white sugar", 
+        "unit": "cup", 
+        "qty": "1"
+    }, 
+    {
+        "input": "1 cup water", 
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='name'>water</span>", 
+        "name": "water", 
+        "unit": "cup", 
+        "qty": "1"
+    }, 
+    {
+        "input": "2 tablespoons cornstarch", 
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='name'>cornstarch</span>", 
+        "name": "cornstarch", 
+        "unit": "tablespoon", 
+        "qty": "2"
+    }, 
+    {
+        "input": "1 teaspoon vanilla extract", 
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='name'>vanilla extract</span>", 
+        "name": "vanilla extract", 
+        "unit": "teaspoon", 
+        "qty": "1"
+    }
+]

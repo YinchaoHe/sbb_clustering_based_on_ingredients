@@ -1,0 +1,98 @@
+[
+    {
+        "comment": "fresh", 
+        "name": "lime juice", 
+        "qty": "1\u20443", 
+        "input": "1\u20443 cup fresh lime juice", 
+        "display": "<span class='qty'>1\u20443</span><span class='unit'>cup</span><span class='comment'>fresh</span><span class='name'>lime juice</span>", 
+        "unit": "cup"
+    }, 
+    {
+        "input": "1\u20442 cup olive oil", 
+        "display": "<span class='qty'>1\u20442</span><span class='unit'>cup</span><span class='name'>olive oil</span>", 
+        "name": "olive oil", 
+        "unit": "cup", 
+        "qty": "1\u20442"
+    }, 
+    {
+        "comment": "minced", 
+        "name": "garlic", 
+        "qty": "1", 
+        "other": ",", 
+        "input": "1 clove garlic, minced", 
+        "display": "<span class='qty'>1</span><span class='unit'>clove</span><span class='name'>garlic</span><span class='other'>,</span><span class='comment'>minced</span>", 
+        "unit": "clove"
+    }, 
+    {
+        "input": "1 teaspoon salt", 
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='name'>salt</span>", 
+        "name": "salt", 
+        "unit": "teaspoon", 
+        "qty": "1"
+    }, 
+    {
+        "comment": "ground", 
+        "name": "cayenne pepper", 
+        "qty": "1\u20448", 
+        "input": "1\u20448 teaspoon ground cayenne pepper", 
+        "display": "<span class='qty'>1\u20448</span><span class='unit'>teaspoon</span><span class='comment'>ground</span><span class='name'>cayenne pepper</span>", 
+        "unit": "teaspoon"
+    }, 
+    {
+        "comment": ", rinsed and drained", 
+        "name": "black beans", 
+        "qty": "2", 
+        "other": "(15 ounce)", 
+        "input": "2 (15 ounce) cans black beans, rinsed and drained", 
+        "display": "<span class='qty'>2</span><span class='other'>( 15 ounce )</span><span class='unit'>cans</span><span class='name'>black beans</span><span class='comment'>, rinsed and drained</span>", 
+        "unit": "can"
+    }, 
+    {
+        "comment": "frozen", 
+        "name": "corn kernels", 
+        "qty": "1", 
+        "other": "1\u20442", 
+        "input": "1 1\u20442 cups frozen corn kernels", 
+        "display": "<span class='qty'>1</span><span class='other'>1\u20442</span><span class='unit'>cups</span><span class='comment'>frozen</span><span class='name'>corn kernels</span>", 
+        "unit": "cup"
+    }, 
+    {
+        "comment": "- peeled, pitted and diced", 
+        "input": "1 avocado - peeled, pitted and diced", 
+        "display": "<span class='qty'>1</span><span class='name'>avocado</span><span class='comment'>- peeled , pitted and diced</span>", 
+        "name": "avocado", 
+        "qty": "1"
+    }, 
+    {
+        "comment": "chopped", 
+        "name": "red bell pepper", 
+        "qty": "1", 
+        "other": ",", 
+        "input": "1 red bell pepper, chopped", 
+        "display": "<span class='qty'>1</span><span class='name'>red bell pepper</span><span class='other'>,</span><span class='comment'>chopped</span>"
+    }, 
+    {
+        "comment": "medium whole (2-3/5\" dia) (blank) s", 
+        "name": "tomatoes", 
+        "qty": "2", 
+        "other": ", chopped", 
+        "input": "2 medium whole (2-3/5\" dia) (blank) s tomatoes, chopped", 
+        "display": "<span class='qty'>2</span><span class='comment'>medium whole ( 2-3/5\" dia ) ( blank ) s</span><span class='name'>tomatoes</span><span class='other'>, chopped</span>"
+    }, 
+    {
+        "comment": "4-1/8\" long) s, thinly sliced", 
+        "name": "green onions", 
+        "qty": "6", 
+        "other": "medium (", 
+        "input": "6 medium (4-1/8\" long) s green onions, thinly sliced", 
+        "display": "<span class='qty'>6</span><span class='other'>medium (</span><span class='comment'>4-1/8\" long ) s</span><span class='name'>green onions</span><span class='comment'>, thinly sliced</span>"
+    }, 
+    {
+        "comment": "chopped fresh", 
+        "name": "cilantro", 
+        "qty": "1\u20442", 
+        "input": "1\u20442 cup chopped fresh cilantro", 
+        "display": "<span class='qty'>1\u20442</span><span class='unit'>cup</span><span class='comment'>chopped fresh</span><span class='name'>cilantro</span>", 
+        "unit": "cup"
+    }
+]

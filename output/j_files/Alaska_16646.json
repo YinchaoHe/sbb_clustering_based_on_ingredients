@@ -1,0 +1,37 @@
+[
+    {
+        "input": "1 cup brown sugar", 
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='name'>brown sugar</span>", 
+        "name": "brown sugar", 
+        "unit": "cup", 
+        "qty": "1"
+    }, 
+    {
+        "input": "1\u20442 cup honey", 
+        "other": "1\u20442", 
+        "name": "honey", 
+        "unit": "cup", 
+        "display": "<span class='other'>1\u20442</span><span class='unit'>cup</span><span class='name'>honey</span>"
+    }, 
+    {
+        "input": "1 dash liquid smoke flavoring", 
+        "display": "<span class='qty'>1</span><span class='unit'>dash</span><span class='name'>liquid smoke flavoring</span>", 
+        "name": "liquid smoke flavoring", 
+        "unit": "dash", 
+        "qty": "1"
+    }, 
+    {
+        "input": "1\u20442 cup apple cider vinegar", 
+        "display": "<span class='qty'>1\u20442</span><span class='unit'>cup</span><span class='name'>apple cider vinegar</span>", 
+        "name": "apple cider vinegar", 
+        "unit": "cup", 
+        "qty": "1\u20442"
+    }, 
+    {
+        "input": "1 (4 pound) whole salmon fillet", 
+        "other": "(4 pound)", 
+        "display": "<span class='qty'>1</span><span class='other'>( 4 pound )</span><span class='name'>whole salmon fillet</span>", 
+        "name": "whole salmon fillet", 
+        "qty": "1"
+    }
+]

@@ -1,0 +1,116 @@
+[
+    {
+        "input": "2 pounds halibut", 
+        "display": "<span class='qty'>2</span><span class='unit'>pounds</span><span class='name'>halibut</span>", 
+        "name": "halibut", 
+        "unit": "pound", 
+        "qty": "2"
+    }, 
+    {
+        "comment": "such as Old Bay\u00ae)", 
+        "name": "seafood seasoning", 
+        "qty": "1\u20442", 
+        "other": "(", 
+        "input": "1\u20442 teaspoon seafood seasoning (such as Old Bay\u00ae)", 
+        "display": "<span class='qty'>1\u20442</span><span class='unit'>teaspoon</span><span class='name'>seafood seasoning</span><span class='other'>(</span><span class='comment'>such as Old Bay\u00ae )</span>", 
+        "unit": "teaspoon"
+    }, 
+    {
+        "input": "1 tablespoon lemon juice", 
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='name'>lemon juice</span>", 
+        "name": "lemon juice", 
+        "unit": "tablespoon", 
+        "qty": "1"
+    }, 
+    {
+        "comment": "cold, thinly sliced", 
+        "name": "butter", 
+        "qty": "1", 
+        "input": "1 teaspoon cold butter, thinly sliced", 
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='comment'>cold</span><span class='name'>butter</span><span class='comment'>, thinly sliced</span>", 
+        "unit": "teaspoon"
+    }, 
+    {
+        "input": "1 cup mayonnaise", 
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='name'>mayonnaise</span>", 
+        "name": "mayonnaise", 
+        "unit": "cup", 
+        "qty": "1"
+    }, 
+    {
+        "input": "1 cup sour cream", 
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='name'>sour cream</span>", 
+        "name": "sour cream", 
+        "unit": "cup", 
+        "qty": "1"
+    }, 
+    {
+        "comment": "softened", 
+        "name": "cream cheese", 
+        "qty": "1", 
+        "other": ",", 
+        "input": "1 cup cream cheese, softened", 
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='name'>cream cheese</span><span class='other'>,</span><span class='comment'>softened</span>", 
+        "unit": "cup"
+    }, 
+    {
+        "comment": "4 ounce) cans", 
+        "name": "diced green chiles", 
+        "qty": "2", 
+        "other": "(", 
+        "input": "2 (4 ounce) cans diced green chiles", 
+        "display": "<span class='qty'>2</span><span class='other'>(</span><span class='comment'>4 ounce ) cans</span><span class='name'>diced green chiles</span>"
+    }, 
+    {
+        "comment": ", chopped", 
+        "input": "2 eaches green onions, chopped", 
+        "display": "<span class='qty'>2</span><span class='name'>eaches green onions</span><span class='comment'>, chopped</span>", 
+        "name": "eaches green onions", 
+        "qty": "2"
+    }, 
+    {
+        "comment": "chopped fresh", 
+        "name": "parsley", 
+        "qty": "1", 
+        "input": "1 teaspoon chopped fresh parsley", 
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='comment'>chopped fresh</span><span class='name'>parsley</span>", 
+        "unit": "teaspoon"
+    }, 
+    {
+        "comment": "ground to taste", 
+        "input": "salt and ground black pepper to taste", 
+        "name": "salt and black pepper", 
+        "display": "<span class='name'>salt and</span><span class='comment'>ground</span><span class='name'>black pepper</span><span class='comment'>to taste</span>"
+    }, 
+    {
+        "input": "8 (8 inch) flour tortillas", 
+        "other": "(8 inch)", 
+        "display": "<span class='qty'>8</span><span class='other'>( 8 inch )</span><span class='name'>flour tortillas</span>", 
+        "name": "flour tortillas", 
+        "qty": "8"
+    }, 
+    {
+        "comment": "or as needed", 
+        "name": "heavy cream", 
+        "qty": "1", 
+        "other": ",", 
+        "input": "1 cup heavy cream, or as needed", 
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='name'>heavy cream</span><span class='other'>,</span><span class='comment'>or as needed</span>", 
+        "unit": "cup"
+    }, 
+    {
+        "comment": "shredded", 
+        "name": "mozzarella cheese", 
+        "qty": "1", 
+        "input": "1 cup shredded mozzarella cheese", 
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='comment'>shredded</span><span class='name'>mozzarella cheese</span>", 
+        "unit": "cup"
+    }, 
+    {
+        "input": "1\u20444 cup Parmesan cheese", 
+        "display": "<span class='qty'>1\u20444</span><span class='unit'>cup</span><span class='name'>Parmesan cheese</span>", 
+        "name": "Parmesan cheese", 
+        "unit": "cup", 
+        "qty": "1\u20444"
+    }
+]

@@ -1,0 +1,61 @@
+[
+    {
+        "name": "butter", 
+        "qty": "1", 
+        "other": "1\u20442, divided", 
+        "input": "1 1\u20442 tablespoons butter, divided", 
+        "display": "<span class='qty'>1</span><span class='other'>1\u20442</span><span class='unit'>tablespoons</span><span class='name'>butter</span><span class='other'>, divided</span>", 
+        "unit": "tablespoon"
+    }, 
+    {
+        "comment": ", trimmed and cut into bite-size pieces", 
+        "input": "3 medium (blank) s summer squash, trimmed and cut into bite-size pieces", 
+        "display": "<span class='qty'>3</span><span class='name'>medium ( blank ) s summer squash</span><span class='comment'>, trimmed and cut into bite-size pieces</span>", 
+        "name": "medium (blank) s summer squash", 
+        "qty": "3"
+    }, 
+    {
+        "comment": "eaches, trimmed and cut into bite-size pieces", 
+        "input": "3 eaches zucchini, trimmed and cut into bite-size pieces", 
+        "display": "<span class='qty'>3</span><span class='comment'>eaches</span><span class='name'>zucchini</span><span class='comment'>, trimmed and cut into bite-size pieces</span>", 
+        "name": "zucchini", 
+        "qty": "3"
+    }, 
+    {
+        "comment": "ground to taste", 
+        "input": "salt and ground black pepper to taste", 
+        "name": "salt and black pepper", 
+        "display": "<span class='name'>salt and</span><span class='comment'>ground</span><span class='name'>black pepper</span><span class='comment'>to taste</span>"
+    }, 
+    {
+        "comment": "chopped", 
+        "name": "eaches onions", 
+        "qty": "3", 
+        "other": ",", 
+        "input": "3 eaches onions, chopped", 
+        "display": "<span class='qty'>3</span><span class='name'>eaches onions</span><span class='other'>,</span><span class='comment'>chopped</span>"
+    }, 
+    {
+        "input": "1 pound shredded sharp white Cheddar cheese", 
+        "display": "<span class='qty'>1</span><span class='unit'>pound</span><span class='name'>shredded sharp white Cheddar cheese</span>", 
+        "name": "shredded sharp white Cheddar cheese", 
+        "unit": "pound", 
+        "qty": "1"
+    }, 
+    {
+        "comment": "shredded", 
+        "name": "Cheddar cheese", 
+        "qty": "1\u20442", 
+        "input": "1\u20442 pound shredded Cheddar cheese", 
+        "display": "<span class='qty'>1\u20442</span><span class='unit'>pound</span><span class='comment'>shredded</span><span class='name'>Cheddar cheese</span>", 
+        "unit": "pound"
+    }, 
+    {
+        "name": "sweetened condensed milk", 
+        "qty": "3", 
+        "other": ", divided", 
+        "input": "3 tablespoons sweetened condensed milk, divided", 
+        "display": "<span class='qty'>3</span><span class='unit'>tablespoons</span><span class='name'>sweetened condensed milk</span><span class='other'>, divided</span>", 
+        "unit": "tablespoon"
+    }
+]

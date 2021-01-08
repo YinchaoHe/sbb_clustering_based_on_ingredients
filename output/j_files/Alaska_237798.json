@@ -1,0 +1,43 @@
+[
+    {
+        "comment": "creamy", 
+        "name": "peanut butter", 
+        "other": "2\u20443", 
+        "input": "2\u20443 cup creamy peanut butter", 
+        "display": "<span class='other'>2\u20443</span><span class='unit'>cup</span><span class='comment'>creamy</span><span class='name'>peanut butter</span>", 
+        "unit": "cup"
+    }, 
+    {
+        "comment": "such as Karo\u00ae", 
+        "name": "corn syrup", 
+        "qty": "1\u20443", 
+        "other": "()", 
+        "input": "1\u20443 cup corn syrup (such as Karo\u00ae)", 
+        "display": "<span class='qty'>1\u20443</span><span class='unit'>cup</span><span class='name'>corn syrup</span><span class='other'>(</span><span class='comment'>such as Karo\u00ae</span><span class='other'>)</span>", 
+        "unit": "cup"
+    }, 
+    {
+        "comment": "crushed sugar-frosted corn flake cereal (such as Frosted Flakes\u00ae)", 
+        "input": "3 cups crushed sugar-frosted corn flake cereal (such as Frosted Flakes\u00ae)", 
+        "display": "<span class='qty'>3</span><span class='unit'>cups</span><span class='comment'>crushed sugar-frosted corn flake cereal ( such as Frosted Flakes\u00ae )</span>", 
+        "unit": "cup", 
+        "qty": "3"
+    }, 
+    {
+        "comment": "softened", 
+        "name": "coffee ice cream", 
+        "other": "1\u20442 ,", 
+        "input": "1\u20442 gallon coffee ice cream, softened", 
+        "display": "<span class='other'>1\u20442</span><span class='unit'>gallon</span><span class='name'>coffee ice cream</span><span class='other'>,</span><span class='comment'>softened</span>", 
+        "unit": "gallon"
+    }, 
+    {
+        "comment": "or to taste", 
+        "name": "chocolate syrup", 
+        "qty": "2", 
+        "other": ",", 
+        "input": "2 tablespoons chocolate syrup, or to taste", 
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='name'>chocolate syrup</span><span class='other'>,</span><span class='comment'>or to taste</span>", 
+        "unit": "tablespoon"
+    }
+]

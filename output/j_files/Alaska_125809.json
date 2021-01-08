@@ -1,0 +1,54 @@
+[
+    {
+        "comment": "4 pound", 
+        "name": "moose roast", 
+        "qty": "1", 
+        "other": "()", 
+        "input": "1 (4 pound) moose roast", 
+        "display": "<span class='qty'>1</span><span class='other'>(</span><span class='comment'>4 pound</span><span class='other'>)</span><span class='name'>moose roast</span>"
+    }, 
+    {
+        "input": "10 cloves garlic", 
+        "display": "<span class='qty'>10</span><span class='unit'>cloves</span><span class='name'>garlic</span>", 
+        "name": "garlic", 
+        "unit": "clove", 
+        "qty": "10"
+    }, 
+    {
+        "input": "10 cubes beef bouillon", 
+        "other": "cubes", 
+        "display": "<span class='qty'>10</span><span class='other'>cubes</span><span class='name'>beef bouillon</span>", 
+        "name": "beef bouillon", 
+        "qty": "10"
+    }, 
+    {
+        "comment": "16 ounce) jar sliced with liquid", 
+        "name": "pepperoncini peppers", 
+        "qty": "1", 
+        "other": "(,", 
+        "input": "1 (16 ounce) jar sliced pepperoncini peppers, with liquid", 
+        "display": "<span class='qty'>1</span><span class='other'>(</span><span class='comment'>16 ounce ) jar sliced</span><span class='name'>pepperoncini peppers</span><span class='other'>,</span><span class='comment'>with liquid</span>"
+    }, 
+    {
+        "input": "2 tablespoons Worcestershire sauce", 
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='name'>Worcestershire sauce</span>", 
+        "name": "Worcestershire sauce", 
+        "unit": "tablespoon", 
+        "qty": "2"
+    }, 
+    {
+        "comment": "(.7", 
+        "name": "dry Italian salad dressing mix", 
+        "qty": "1", 
+        "other": ")", 
+        "input": "1 (.7 ounce) package dry Italian salad dressing mix", 
+        "display": "<span class='qty'>1</span><span class='comment'>( .7</span><span class='unit'>ounce</span><span class='other'>)</span><span class='unit'>package</span><span class='name'>dry Italian salad dressing mix</span>", 
+        "unit": "ounce package"
+    }, 
+    {
+        "input": "12 (6 inch) hard-crusted French rolls", 
+        "display": "<span class='qty'>12</span><span class='name'>( 6 inch ) hard-crusted French rolls</span>", 
+        "name": "(6 inch) hard-crusted French rolls", 
+        "qty": "12"
+    }
+]

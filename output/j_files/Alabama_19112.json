@@ -1,0 +1,48 @@
+[
+    {
+        "comment": "(20 ounce) can crushed, with juice", 
+        "input": "1 (20 ounce) can crushed pineapple, with juice", 
+        "display": "<span class='qty'>1</span><span class='comment'>( 20 ounce ) can crushed</span><span class='name'>pineapple</span><span class='comment'>, with juice</span>", 
+        "name": "pineapple", 
+        "qty": "1"
+    }, 
+    {
+        "comment": "21 ounce) can", 
+        "name": "cherry pie filling", 
+        "qty": "1", 
+        "other": "(", 
+        "input": "1 (21 ounce) can cherry pie filling", 
+        "display": "<span class='qty'>1</span><span class='other'>(</span><span class='comment'>21 ounce ) can</span><span class='name'>cherry pie filling</span>"
+    }, 
+    {
+        "comment": "18.25 ounce) package devil's", 
+        "name": "food cake mix", 
+        "qty": "1", 
+        "other": "(", 
+        "input": "1 (18.25 ounce) package devil's food cake mix", 
+        "display": "<span class='qty'>1</span><span class='other'>(</span><span class='comment'>18.25 ounce ) package devil's</span><span class='name'>food cake mix</span>"
+    }, 
+    {
+        "comment": "chopped", 
+        "name": "pecans", 
+        "qty": "1", 
+        "input": "1 cup chopped pecans", 
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='comment'>chopped</span><span class='name'>pecans</span>", 
+        "unit": "cup"
+    }, 
+    {
+        "input": "1\u20442 cup mint chocolate chips", 
+        "display": "<span class='qty'>1\u20442</span><span class='unit'>cup</span><span class='name'>mint chocolate chips</span>", 
+        "name": "mint chocolate chips", 
+        "unit": "cup", 
+        "qty": "1\u20442"
+    }, 
+    {
+        "comment": "sliced", 
+        "name": "butter", 
+        "other": "1\u20442 ,", 
+        "input": "1\u20442 cup butter, sliced", 
+        "display": "<span class='other'>1\u20442</span><span class='unit'>cup</span><span class='name'>butter</span><span class='other'>,</span><span class='comment'>sliced</span>", 
+        "unit": "cup"
+    }
+]

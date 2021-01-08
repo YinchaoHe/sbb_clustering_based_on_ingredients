@@ -1,0 +1,83 @@
+[
+    {
+        "input": "1\u20444 cup butter", 
+        "other": "1\u20444", 
+        "name": "butter", 
+        "unit": "cup", 
+        "display": "<span class='other'>1\u20444</span><span class='unit'>cup</span><span class='name'>butter</span>"
+    }, 
+    {
+        "comment": "large, diced", 
+        "input": "1 large onion, diced", 
+        "display": "<span class='qty'>1</span><span class='comment'>large</span><span class='name'>onion</span><span class='comment'>, diced</span>", 
+        "name": "onion", 
+        "qty": "1"
+    }, 
+    {
+        "comment": "diced", 
+        "input": "1\u20442 large green bell pepper, diced", 
+        "other": ",", 
+        "name": "1\u20442 large green bell pepper", 
+        "display": "<span class='name'>1\u20442 large green bell pepper</span><span class='other'>,</span><span class='comment'>diced</span>"
+    }, 
+    {
+        "comment": "4 ounce jar chopped", 
+        "name": "pimento peppers", 
+        "qty": "1", 
+        "other": "()", 
+        "input": "1 (4 ounce) jar chopped pimento peppers", 
+        "display": "<span class='qty'>1</span><span class='other'>(</span><span class='comment'>4 ounce</span><span class='other'>)</span><span class='comment'>jar chopped</span><span class='name'>pimento peppers</span>"
+    }, 
+    {
+        "comment": "large", 
+        "input": "2 large eggs eggs", 
+        "display": "<span class='qty'>2</span><span class='comment'>large</span><span class='name'>eggs eggs</span>", 
+        "name": "eggs eggs", 
+        "qty": "2"
+    }, 
+    {
+        "name": "corn muffin mix", 
+        "qty": "1", 
+        "other": "(8 ounce) (such as Jiffy\u00ae)", 
+        "input": "1 (8 ounce) package corn muffin mix (such as Jiffy\u00ae)", 
+        "display": "<span class='qty'>1</span><span class='other'>( 8 ounce )</span><span class='unit'>package</span><span class='name'>corn muffin mix</span><span class='other'>( such as Jiffy\u00ae )</span>", 
+        "unit": "package"
+    }, 
+    {
+        "comment": "4 ounce) can", 
+        "name": "diced green chiles", 
+        "qty": "1", 
+        "other": "(", 
+        "input": "1 (4 ounce) can diced green chiles", 
+        "display": "<span class='qty'>1</span><span class='other'>(</span><span class='comment'>4 ounce ) can</span><span class='name'>diced green chiles</span>"
+    }, 
+    {
+        "input": "1 (15.25 ounce) can whole kernel corn, with liquid", 
+        "display": "<span class='qty'>1</span><span class='name'>( 15.25 ounce ) can whole kernel corn , with liquid</span>", 
+        "name": "(15.25 ounce) can whole kernel corn, with liquid", 
+        "qty": "1"
+    }, 
+    {
+        "comment": "15.25 ounce) can", 
+        "name": "creamed corn", 
+        "qty": "1", 
+        "other": "(", 
+        "input": "1 (15.25 ounce) can creamed corn", 
+        "display": "<span class='qty'>1</span><span class='other'>(</span><span class='comment'>15.25 ounce ) can</span><span class='name'>creamed corn</span>"
+    }, 
+    {
+        "input": "1 pint sour cream", 
+        "display": "<span class='qty'>1</span><span class='unit'>pint</span><span class='name'>sour cream</span>", 
+        "name": "sour cream", 
+        "unit": "pint", 
+        "qty": "1"
+    }, 
+    {
+        "comment": "shredded", 
+        "name": "Cheddar cheese", 
+        "qty": "1", 
+        "input": "1 cup shredded Cheddar cheese", 
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='comment'>shredded</span><span class='name'>Cheddar cheese</span>", 
+        "unit": "cup"
+    }
+]

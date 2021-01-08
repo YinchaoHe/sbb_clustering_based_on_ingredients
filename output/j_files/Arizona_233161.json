@@ -1,0 +1,133 @@
+[
+    {
+        "comment": "light", 
+        "name": "olive oil", 
+        "other": "2\u20443", 
+        "input": "2\u20443 cup light olive oil", 
+        "display": "<span class='other'>2\u20443</span><span class='unit'>cup</span><span class='comment'>light</span><span class='name'>olive oil</span>", 
+        "unit": "cup"
+    }, 
+    {
+        "input": "1\u20442 cup white sugar", 
+        "display": "<span class='qty'>1\u20442</span><span class='unit'>cup</span><span class='name'>white sugar</span>", 
+        "name": "white sugar", 
+        "unit": "cup", 
+        "qty": "1\u20442"
+    }, 
+    {
+        "comment": "freshly squeezed", 
+        "name": "orange juice", 
+        "qty": "1\u20443", 
+        "input": "1\u20443 cup freshly squeezed orange juice", 
+        "display": "<span class='qty'>1\u20443</span><span class='unit'>cup</span><span class='comment'>freshly squeezed</span><span class='name'>orange juice</span>", 
+        "unit": "cup"
+    }, 
+    {
+        "input": "1 tablespoon poppy seeds", 
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='name'>poppy seeds</span>", 
+        "name": "poppy seeds", 
+        "unit": "tablespoon", 
+        "qty": "1"
+    }, 
+    {
+        "comment": "minced", 
+        "name": "onion", 
+        "qty": "2", 
+        "input": "2 teaspoons minced onion", 
+        "display": "<span class='qty'>2</span><span class='unit'>teaspoons</span><span class='comment'>minced</span><span class='name'>onion</span>", 
+        "unit": "teaspoon"
+    }, 
+    {
+        "input": "1 teaspoon Dijon mustard", 
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='name'>Dijon mustard</span>", 
+        "name": "Dijon mustard", 
+        "unit": "teaspoon", 
+        "qty": "1"
+    }, 
+    {
+        "comment": "grated", 
+        "name": "orange zest", 
+        "qty": "1", 
+        "input": "1 teaspoon grated orange zest", 
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='comment'>grated</span><span class='name'>orange zest</span>", 
+        "unit": "teaspoon"
+    }, 
+    {
+        "input": "1\u20442 teaspoon salt", 
+        "display": "<span class='qty'>1\u20442</span><span class='unit'>teaspoon</span><span class='name'>salt</span>", 
+        "name": "salt", 
+        "unit": "teaspoon", 
+        "qty": "1\u20442"
+    }, 
+    {
+        "name": "spring mix salad greens", 
+        "qty": "1", 
+        "other": "(5 ounce)", 
+        "input": "1 (5 ounce) package spring mix salad greens", 
+        "display": "<span class='qty'>1</span><span class='other'>( 5 ounce )</span><span class='unit'>package</span><span class='name'>spring mix salad greens</span>", 
+        "unit": "package"
+    }, 
+    {
+        "comment": ", chopped", 
+        "name": "green onions", 
+        "qty": "1", 
+        "input": "1 bunch green onions, chopped", 
+        "display": "<span class='qty'>1</span><span class='unit'>bunch</span><span class='name'>green onions</span><span class='comment'>, chopped</span>", 
+        "unit": "bunch"
+    }, 
+    {
+        "comment": "chopped", 
+        "name": "avocado", 
+        "qty": "1", 
+        "other": ",", 
+        "input": "1 avocado, chopped", 
+        "display": "<span class='qty'>1</span><span class='name'>avocado</span><span class='other'>,</span><span class='comment'>chopped</span>"
+    }, 
+    {
+        "comment": "cored and chopped", 
+        "name": "green apple", 
+        "qty": "1", 
+        "other": ",", 
+        "input": "1 green apple, cored and chopped", 
+        "display": "<span class='qty'>1</span><span class='name'>green apple</span><span class='other'>,</span><span class='comment'>cored and chopped</span>"
+    }, 
+    {
+        "comment": "4 serving size) crumbled", 
+        "name": "pkg. goat cheese", 
+        "qty": "1", 
+        "other": "(", 
+        "input": "1 pkg. (4 serving size) crumbled goat cheese", 
+        "display": "<span class='qty'>1</span><span class='name'>pkg.</span><span class='other'>(</span><span class='comment'>4 serving size ) crumbled</span><span class='name'>goat cheese</span>"
+    }, 
+    {
+        "comment": "sweetened dried", 
+        "name": "cranberries", 
+        "qty": "1\u20442", 
+        "input": "1\u20442 cup sweetened dried cranberries", 
+        "display": "<span class='qty'>1\u20442</span><span class='unit'>cup</span><span class='comment'>sweetened dried</span><span class='name'>cranberries</span>", 
+        "unit": "cup"
+    }, 
+    {
+        "input": "1\u20442 cup golden raisins", 
+        "display": "<span class='qty'>1\u20442</span><span class='unit'>cup</span><span class='name'>golden raisins</span>", 
+        "name": "golden raisins", 
+        "unit": "cup", 
+        "qty": "1\u20442"
+    }, 
+    {
+        "comment": "3 ounce) can drained", 
+        "name": "mandarin oranges", 
+        "qty": "1", 
+        "other": "(,", 
+        "input": "1 (3 ounce) can mandarin oranges, drained", 
+        "display": "<span class='qty'>1</span><span class='other'>(</span><span class='comment'>3 ounce ) can</span><span class='name'>mandarin oranges</span><span class='other'>,</span><span class='comment'>drained</span>"
+    }, 
+    {
+        "comment": "seasoned, or to taste", 
+        "name": "walnuts", 
+        "qty": "1\u20444", 
+        "input": "1\u20444 cup seasoned walnuts, or to taste", 
+        "display": "<span class='qty'>1\u20444</span><span class='unit'>cup</span><span class='comment'>seasoned</span><span class='name'>walnuts</span><span class='comment'>, or to taste</span>", 
+        "unit": "cup"
+    }
+]

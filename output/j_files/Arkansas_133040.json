@@ -1,0 +1,97 @@
+[
+    {
+        "comment": "3 to 3 1/2 pound) domestic whole ducklings dressed", 
+        "input": "2 (3 to 3 1/2 pound) domestic whole ducklings, dressed", 
+        "other": "(,", 
+        "display": "<span class='qty'>2</span><span class='other'>(</span><span class='comment'>3 to 3 1/2 pound ) domestic whole ducklings</span><span class='other'>,</span><span class='comment'>dressed</span>", 
+        "qty": "2"
+    }, 
+    {
+        "input": "3 cups water", 
+        "display": "<span class='qty'>3</span><span class='unit'>cups</span><span class='name'>water</span>", 
+        "name": "water", 
+        "unit": "cup", 
+        "qty": "3"
+    }, 
+    {
+        "comment": "undrained", 
+        "name": "cans diced tomatoes with green chilies", 
+        "qty": "2", 
+        "other": "(8 ounce) ,", 
+        "input": "2 (8 ounce) cans diced tomatoes with green chilies, undrained", 
+        "display": "<span class='qty'>2</span><span class='other'>( 8 ounce )</span><span class='name'>cans diced tomatoes with green chilies</span><span class='other'>,</span><span class='comment'>undrained</span>"
+    }, 
+    {
+        "comment": "minced", 
+        "name": "garlic", 
+        "qty": "6", 
+        "other": ",", 
+        "input": "6 cloves garlic, minced", 
+        "display": "<span class='qty'>6</span><span class='unit'>cloves</span><span class='name'>garlic</span><span class='other'>,</span><span class='comment'>minced</span>", 
+        "unit": "clove"
+    }, 
+    {
+        "comment": "chopped", 
+        "name": "onion", 
+        "qty": "1", 
+        "other": "1\u20442", 
+        "input": "1 1\u20442 cups chopped onion", 
+        "display": "<span class='qty'>1</span><span class='other'>1\u20442</span><span class='unit'>cups</span><span class='comment'>chopped</span><span class='name'>onion</span>", 
+        "unit": "cup"
+    }, 
+    {
+        "comment": "chopped", 
+        "name": "celery", 
+        "qty": "1", 
+        "other": "1\u20442", 
+        "input": "1 1\u20442 cups chopped celery", 
+        "display": "<span class='qty'>1</span><span class='other'>1\u20442</span><span class='unit'>cups</span><span class='comment'>chopped</span><span class='name'>celery</span>", 
+        "unit": "cup"
+    }, 
+    {
+        "comment": "chopped", 
+        "name": "green bell pepper", 
+        "qty": "1", 
+        "other": "1\u20442", 
+        "input": "1 1\u20442 cups chopped green bell pepper", 
+        "display": "<span class='qty'>1</span><span class='other'>1\u20442</span><span class='unit'>cups</span><span class='comment'>chopped</span><span class='name'>green bell pepper</span>", 
+        "unit": "cup"
+    }, 
+    {
+        "comment": "(blank) s", 
+        "input": "2 leaf (blank) s bay leaves", 
+        "display": "<span class='qty'>2</span><span class='name'>leaf</span><span class='comment'>( blank ) s</span><span class='name'>bay leaves</span>", 
+        "name": "leaf bay leaves", 
+        "qty": "2"
+    }, 
+    {
+        "input": "1 (4.5 ounce) package gumbo base, as in Zatarian's", 
+        "other": ", as in Zatarian's", 
+        "display": "<span class='qty'>1</span><span class='name'>( 4.5 ounce ) package gumbo base</span><span class='other'>, as in Zatarian's</span>", 
+        "name": "(4.5 ounce) package gumbo base", 
+        "qty": "1"
+    }, 
+    {
+        "comment": "frozen sliced", 
+        "name": "okra", 
+        "qty": "2", 
+        "input": "2 pounds frozen sliced okra", 
+        "display": "<span class='qty'>2</span><span class='unit'>pounds</span><span class='comment'>frozen sliced</span><span class='name'>okra</span>", 
+        "unit": "pound"
+    }, 
+    {
+        "input": "1 (16 ounce) package frozen cooked shrimp (peeled and deveined)", 
+        "display": "<span class='qty'>1</span><span class='name'>( 16 ounce ) package frozen cooked shrimp ( peeled and deveined )</span>", 
+        "name": "(16 ounce) package frozen cooked shrimp (peeled and deveined)", 
+        "qty": "1"
+    }, 
+    {
+        "comment": "cut into 1/2 inch slices", 
+        "name": "smoked sausage", 
+        "qty": "1", 
+        "other": ",", 
+        "input": "1 pound smoked sausage, cut into 1/2 inch slices", 
+        "display": "<span class='qty'>1</span><span class='unit'>pound</span><span class='name'>smoked sausage</span><span class='other'>,</span><span class='comment'>cut into 1/2 inch slices</span>", 
+        "unit": "pound"
+    }
+]

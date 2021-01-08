@@ -1,0 +1,71 @@
+[
+    {
+        "input": "1 cup all-purpose flour", 
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='name'>all-purpose flour</span>", 
+        "name": "all-purpose flour", 
+        "unit": "cup", 
+        "qty": "1"
+    }, 
+    {
+        "comment": "toasted and chopped", 
+        "name": "almonds", 
+        "qty": "1\u20442", 
+        "input": "1\u20442 cup toasted and chopped almonds", 
+        "display": "<span class='qty'>1\u20442</span><span class='unit'>cup</span><span class='comment'>toasted and chopped</span><span class='name'>almonds</span>", 
+        "unit": "cup"
+    }, 
+    {
+        "comment": "packed", 
+        "name": "brown sugar", 
+        "qty": "1\u20444", 
+        "input": "1\u20444 cup packed brown sugar", 
+        "display": "<span class='qty'>1\u20444</span><span class='unit'>cup</span><span class='comment'>packed</span><span class='name'>brown sugar</span>", 
+        "unit": "cup"
+    }, 
+    {
+        "comment": "ground", 
+        "name": "cinnamon", 
+        "qty": "1\u20442", 
+        "input": "1\u20442 teaspoon ground cinnamon", 
+        "display": "<span class='qty'>1\u20442</span><span class='unit'>teaspoon</span><span class='comment'>ground</span><span class='name'>cinnamon</span>", 
+        "unit": "teaspoon"
+    }, 
+    {
+        "comment": "melted", 
+        "name": "butter", 
+        "other": "1\u20442 ,", 
+        "input": "1\u20442 cup butter, melted", 
+        "display": "<span class='other'>1\u20442</span><span class='unit'>cup</span><span class='name'>butter</span><span class='other'>,</span><span class='comment'>melted</span>", 
+        "unit": "cup"
+    }, 
+    {
+        "comment": "large whites egg whites", 
+        "input": "2 large egg whites egg whites", 
+        "display": "<span class='qty'>2</span><span class='comment'>large</span><span class='name'>egg</span><span class='comment'>whites egg whites</span>", 
+        "name": "egg", 
+        "qty": "2"
+    }, 
+    {
+        "input": "1\u20444 cup white sugar", 
+        "display": "<span class='qty'>1\u20444</span><span class='unit'>cup</span><span class='name'>white sugar</span>", 
+        "name": "white sugar", 
+        "unit": "cup", 
+        "qty": "1\u20444"
+    }, 
+    {
+        "comment": "softened", 
+        "name": "raspberry ice cream", 
+        "qty": "1\u20442", 
+        "other": ",", 
+        "input": "1\u20442 gallon raspberry ice cream, softened", 
+        "display": "<span class='qty'>1\u20442</span><span class='unit'>gallon</span><span class='name'>raspberry ice cream</span><span class='other'>,</span><span class='comment'>softened</span>", 
+        "unit": "gallon"
+    }, 
+    {
+        "input": "1\u20444 cup raspberry syrup", 
+        "display": "<span class='qty'>1\u20444</span><span class='unit'>cup</span><span class='name'>raspberry syrup</span>", 
+        "name": "raspberry syrup", 
+        "unit": "cup", 
+        "qty": "1\u20444"
+    }
+]

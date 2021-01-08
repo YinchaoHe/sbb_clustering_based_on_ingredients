@@ -1,0 +1,46 @@
+[
+    {
+        "input": "1\u20442 cup cornmeal", 
+        "other": "1\u20442", 
+        "name": "cornmeal", 
+        "unit": "cup", 
+        "display": "<span class='other'>1\u20442</span><span class='unit'>cup</span><span class='name'>cornmeal</span>"
+    }, 
+    {
+        "comment": "ground to taste", 
+        "input": "salt and ground black pepper to taste", 
+        "name": "salt and black pepper", 
+        "display": "<span class='name'>salt and</span><span class='comment'>ground</span><span class='name'>black pepper</span><span class='comment'>to taste</span>"
+    }, 
+    {
+        "comment": "large, cut into 1/2-inch cubes", 
+        "input": "2 large potatoes, cut into 1/2-inch cubes", 
+        "display": "<span class='qty'>2</span><span class='comment'>large</span><span class='name'>potatoes</span><span class='comment'>, cut into 1/2-inch cubes</span>", 
+        "name": "potatoes", 
+        "qty": "2"
+    }, 
+    {
+        "comment": "fresh trimmed and cut into 1/2-inch pieces", 
+        "name": "okra", 
+        "qty": "1", 
+        "other": ",", 
+        "input": "1 pound fresh okra, trimmed and cut into 1/2-inch pieces", 
+        "display": "<span class='qty'>1</span><span class='unit'>pound</span><span class='comment'>fresh</span><span class='name'>okra</span><span class='other'>,</span><span class='comment'>trimmed and cut into 1/2-inch pieces</span>", 
+        "unit": "pound"
+    }, 
+    {
+        "comment": "finely chopped", 
+        "name": "white onion", 
+        "qty": "1", 
+        "other": ",", 
+        "input": "1 white onion, finely chopped", 
+        "display": "<span class='qty'>1</span><span class='name'>white onion</span><span class='other'>,</span><span class='comment'>finely chopped</span>"
+    }, 
+    {
+        "input": "1\u20442 cup cooking oil", 
+        "display": "<span class='qty'>1\u20442</span><span class='unit'>cup</span><span class='name'>cooking oil</span>", 
+        "name": "cooking oil", 
+        "unit": "cup", 
+        "qty": "1\u20442"
+    }
+]

@@ -1,0 +1,56 @@
+[
+    {
+        "input": "2 teaspoons paprika", 
+        "display": "<span class='qty'>2</span><span class='unit'>teaspoons</span><span class='name'>paprika</span>", 
+        "name": "paprika", 
+        "unit": "teaspoon", 
+        "qty": "2"
+    }, 
+    {
+        "comment": "ground", 
+        "name": "coriander", 
+        "qty": "2", 
+        "input": "2 teaspoons ground coriander", 
+        "display": "<span class='qty'>2</span><span class='unit'>teaspoons</span><span class='comment'>ground</span><span class='name'>coriander</span>", 
+        "unit": "teaspoon"
+    }, 
+    {
+        "comment": "ground", 
+        "name": "cumin", 
+        "qty": "2", 
+        "input": "2 teaspoons ground cumin", 
+        "display": "<span class='qty'>2</span><span class='unit'>teaspoons</span><span class='comment'>ground</span><span class='name'>cumin</span>", 
+        "unit": "teaspoon"
+    }, 
+    {
+        "input": "1 teaspoon garlic salt", 
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='name'>garlic salt</span>", 
+        "name": "garlic salt", 
+        "unit": "teaspoon", 
+        "qty": "1"
+    }, 
+    {
+        "comment": "ground", 
+        "name": "black pepper", 
+        "qty": "1", 
+        "input": "1 pinch ground black pepper", 
+        "display": "<span class='qty'>1</span><span class='unit'>pinch</span><span class='comment'>ground</span><span class='name'>black pepper</span>", 
+        "unit": "pinch"
+    }, 
+    {
+        "comment": "cut into strips", 
+        "name": "flank steak", 
+        "qty": "2", 
+        "other": ",", 
+        "input": "2 pounds flank steak, cut into strips", 
+        "display": "<span class='qty'>2</span><span class='unit'>pounds</span><span class='name'>flank steak</span><span class='other'>,</span><span class='comment'>cut into strips</span>", 
+        "unit": "pound"
+    }, 
+    {
+        "input": "1\u20442 cup Ranch dressing", 
+        "display": "<span class='qty'>1\u20442</span><span class='unit'>cup</span><span class='name'>Ranch dressing</span>", 
+        "name": "Ranch dressing", 
+        "unit": "cup", 
+        "qty": "1\u20442"
+    }
+]

@@ -1,0 +1,40 @@
+[
+    {
+        "comment": "eaches fillets", 
+        "input": "4 eaches salmon fillets", 
+        "display": "<span class='qty'>4</span><span class='comment'>eaches</span><span class='name'>salmon</span><span class='comment'>fillets</span>", 
+        "name": "salmon", 
+        "qty": "4"
+    }, 
+    {
+        "input": "1\u20442 cup lemon juice", 
+        "display": "<span class='qty'>1\u20442</span><span class='unit'>cup</span><span class='name'>lemon juice</span>", 
+        "name": "lemon juice", 
+        "unit": "cup", 
+        "qty": "1\u20442"
+    }, 
+    {
+        "comment": "and spice seasoning blend (such as Mrs. Dash\u00ae Original Seasoning), or to taste", 
+        "name": "onion", 
+        "qty": "1", 
+        "input": "1 tablespoon onion and spice seasoning blend (such as Mrs. Dash\u00ae Original Seasoning), or to taste", 
+        "display": "<span class='qty'>1</span><span class='unit'>tablespoon</span><span class='name'>onion</span><span class='comment'>and spice seasoning blend ( such as Mrs. Dash\u00ae Original Seasoning ) , or to taste</span>", 
+        "unit": "tablespoon"
+    }, 
+    {
+        "comment": "sliced", 
+        "name": "lemon", 
+        "qty": "1", 
+        "other": ",", 
+        "input": "1 lemon, sliced", 
+        "display": "<span class='qty'>1</span><span class='name'>lemon</span><span class='other'>,</span><span class='comment'>sliced</span>"
+    }, 
+    {
+        "comment": "diced", 
+        "name": "onion", 
+        "qty": "1\u20442", 
+        "other": ",", 
+        "input": "1\u20442 onion, diced", 
+        "display": "<span class='qty'>1\u20442</span><span class='name'>onion</span><span class='other'>,</span><span class='comment'>diced</span>"
+    }
+]

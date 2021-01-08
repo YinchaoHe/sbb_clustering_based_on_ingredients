@@ -1,0 +1,62 @@
+[
+    {
+        "input": "2 tablespoons vegetable oil", 
+        "display": "<span class='qty'>2</span><span class='unit'>tablespoons</span><span class='name'>vegetable oil</span>", 
+        "name": "vegetable oil", 
+        "unit": "tablespoon", 
+        "qty": "2"
+    }, 
+    {
+        "input": "4 (6 inch) corn tortillas", 
+        "other": "(6 inch)", 
+        "display": "<span class='qty'>4</span><span class='other'>( 6 inch )</span><span class='name'>corn tortillas</span>", 
+        "name": "corn tortillas", 
+        "qty": "4"
+    }, 
+    {
+        "comment": "refried with", 
+        "name": "beans green chilies", 
+        "qty": "1", 
+        "input": "1 cup refried beans with green chilies", 
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='comment'>refried</span><span class='name'>beans</span><span class='comment'>with</span><span class='name'>green chilies</span>", 
+        "unit": "cup"
+    }, 
+    {
+        "input": "1 teaspoon butter", 
+        "display": "<span class='qty'>1</span><span class='unit'>teaspoon</span><span class='name'>butter</span>", 
+        "name": "butter", 
+        "unit": "teaspoon", 
+        "qty": "1"
+    }, 
+    {
+        "comment": "large", 
+        "input": "4 large eggs eggs", 
+        "display": "<span class='qty'>4</span><span class='comment'>large</span><span class='name'>eggs eggs</span>", 
+        "name": "eggs eggs", 
+        "qty": "4"
+    }, 
+    {
+        "comment": "shredded", 
+        "name": "Cheddar cheese", 
+        "qty": "1", 
+        "input": "1 cup shredded Cheddar cheese", 
+        "display": "<span class='qty'>1</span><span class='unit'>cup</span><span class='comment'>shredded</span><span class='name'>Cheddar cheese</span>", 
+        "unit": "cup"
+    }, 
+    {
+        "comment": "cooked and crumbled", 
+        "name": "bacon", 
+        "qty": "8", 
+        "other": ",", 
+        "input": "8 slices bacon, cooked and crumbled", 
+        "display": "<span class='qty'>8</span><span class='unit'>slices</span><span class='name'>bacon</span><span class='other'>,</span><span class='comment'>cooked and crumbled</span>", 
+        "unit": "slice"
+    }, 
+    {
+        "input": "1\u20442 cup salsa", 
+        "other": "1\u20442", 
+        "name": "salsa", 
+        "unit": "cup", 
+        "display": "<span class='other'>1\u20442</span><span class='unit'>cup</span><span class='name'>salsa</span>"
+    }
+]

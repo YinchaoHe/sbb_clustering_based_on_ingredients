@@ -1,0 +1,36 @@
+[
+    {
+        "input": "2 cups sugar", 
+        "display": "<span class='qty'>2</span><span class='unit'>cups</span><span class='name'>sugar</span>", 
+        "name": "sugar", 
+        "unit": "cup", 
+        "qty": "2"
+    }, 
+    {
+        "input": "1\u20442 gallon water", 
+        "other": "1\u20442", 
+        "name": "water", 
+        "unit": "gallon", 
+        "display": "<span class='other'>1\u20442</span><span class='unit'>gallon</span><span class='name'>water</span>"
+    }, 
+    {
+        "input": "1 tray ice cubes", 
+        "display": "<span class='qty'>1</span><span class='name'>tray ice cubes</span>", 
+        "name": "tray ice cubes", 
+        "qty": "1"
+    }, 
+    {
+        "input": "3 family size teabags family sized teabags of orange pekoe tea", 
+        "display": "<span class='qty'>3</span><span class='name'>family size teabags family sized teabags of orange pekoe tea</span>", 
+        "name": "family size teabags family sized teabags of orange pekoe tea", 
+        "qty": "3"
+    }, 
+    {
+        "comment": "cold, or as needed", 
+        "name": "water", 
+        "qty": "3", 
+        "input": "3 cups cold water, or as needed", 
+        "display": "<span class='qty'>3</span><span class='unit'>cups</span><span class='comment'>cold</span><span class='name'>water</span><span class='comment'>, or as needed</span>", 
+        "unit": "cup"
+    }
+]
