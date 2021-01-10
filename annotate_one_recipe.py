@@ -19,7 +19,7 @@ def ingredient_transformation(recipe):
             for ingr in data[ingr_group]:
                 if trans_target_ingr == ingr:
                     ingredit_pair = []
-                    print("The targer belongs to: " + ingr_group)
+                    #print("The targer belongs to: " + ingr_group)
                     ingredit_pair.append(ingr_group)
                     ingredit_pair.append(target_ingr)
                     converted_nutrition.append(ingredit_pair)
@@ -27,14 +27,14 @@ def ingredient_transformation(recipe):
                     break
 
             if target == True:
-                print("find the target: " + target_ingr)
+                #print("find the target: " + target_ingr)
                 break
         if target == False:
             ingredit_pair = []
             ingredit_pair.append(trans_target_ingr)
             ingredit_pair.append(target_ingr)
             converted_nutrition.append(ingredit_pair)
-            print("!!!Cannot find the target: " + target_ingr)
+            #print("!!!Cannot find the target: " + target_ingr.encode('utf-8'))
 
     converted_info["ingredients"] = converted_nutrition
 
@@ -67,7 +67,7 @@ def search(ingredient, dataType):
     figure_d = " \'{\"query\": \"" + figure_q + "\", \"dataType\": [\"" + dataType + "\"], \"pageSize\":1,\"pageNumber\":1,\"sortOrder\": \"desc\"}\' "
     url = "https://api.nal.usda.gov/fdc/v1/foods/search?api_key=5XhH6rNR9dLzWtUTVvFIzhupntyAfUmnYHkv4gWF"
     command = command + figure_h + " -d " + figure_d + url
-    print(command)
+    #print(command)
     os.system(command + "> temp_ingredient_nutrition_USDA.json")
     with open('temp_ingredient_nutrition_USDA.json') as f:
         data = json.load(f)
@@ -77,9 +77,9 @@ def search(ingredient, dataType):
     except:
         result = {"ingredient": figure_q}
         result['unitName'] = "Nofound"
-        print(result)
+        #print(result)
         return result
-    print(data["description"])
+    #print(data["description"])
     try:
         result = {"ingredient": data["description"],
                   "portion": '100g'}
@@ -107,7 +107,7 @@ def search(ingredient, dataType):
         if nu_info != {}:
             nu_infos.append(nu_info)
     result['nutrition'] = nu_infos
-    print(result)
+    #print(result)
     return result
 
 def main():
@@ -123,27 +123,29 @@ def main():
         pass
 
     temp_recipe, folder = ingredient_transformation(recipe)
-    nutrition = search_nutrition(folder)
-    recipe_trans = {}
-    recipe_trans['recipe_ID'] = temp_recipe['recipe_ID']
-    recipe_trans["ingredients"] = {}
-    index = 0
-    for ingre in temp_recipe["ingredients"]:
-        recipe_trans["ingredients"][ingre[1]] = nutrition[index]
-        index += 1
-
-
-    folder = "output_files/" + recipe["recipe_ID"].split("_")[0]
     try:
-        os.mkdir(folder)
+        nutrition = search_nutrition(folder)
+        recipe_trans = {}
+        recipe_trans['recipe_ID'] = temp_recipe['recipe_ID']
+        recipe_trans["ingredients"] = {}
+        index = 0
+        for ingre in temp_recipe["ingredients"]:
+            recipe_trans["ingredients"][ingre[1]] = nutrition[index]
+            index += 1
+
+
+        folder = "output_files/" + recipe["recipe_ID"].split("_")[0]
+        try:
+            os.mkdir(folder)
+        except:
+            pass
+
+        with open(folder + '/' + recipe["recipe_ID"] + '.json', 'w') as f:
+            json.dump(recipe_trans, f)
+
+        print('---------------' + temp_recipe['recipe_ID'] + '--------------------')
     except:
-        pass
-
-    with open(folder + '/' + recipe["recipe_ID"] + '.json', 'w') as f:
-        json.dump(recipe_trans, f)
-
-    print(temp_recipe['recipe_ID'])
-
+        print("Error Appear at ***************** " + temp_recipe['recipe_ID'] + "******************")
 
 if __name__ == '__main__':
     main()
